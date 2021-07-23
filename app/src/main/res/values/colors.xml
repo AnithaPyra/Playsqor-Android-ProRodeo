@@ -12,6 +12,7 @@
     <color name="color_transparent">#00000000</color>
     <color name="color_video_transparent">#88000000</color>
     <color name="color_black">#000000</color>
+    <color name="color_blue">#002554</color>
 
     <color name="color_unplayed">#323232</color>
     <color name="color_buffered">#b2b2b2</color>

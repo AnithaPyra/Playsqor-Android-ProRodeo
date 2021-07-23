@@ -6,12 +6,14 @@ public class APIs {
     //    static final String BASE_URL = "http://40.70.208.170:8080/api/"; // IP -node
 //   public static final String BASE_URL = "https://staging-backoffice.azurewebsites.net/api/"; //  IP - .net - DEV
 //   public static final String BASE_URL = "https://api.playsqorr.com/stage/api/"; // now  IP - .net - DEV
-    public static final String BASE_URL = "https://api-playsqorr.azurewebsites.net/sqlstage/api/"; //  IP - sql - DEV
+    public static final String BASE_URL = "https://api-playsqorr.azurewebsites.net/sqldev/api/"; //  IP - sql - DEV
+//    public static final String BASE_URL = "https://api-playsqorr.azurewebsites.net/sqlstage/api/"; //  IP - sql - DEV
 //    public static final String BASE_URL = "https://api-playsqorr.azurewebsites.net/stage/api/"; //  IP - .net - DEV
     //    public static final String BASE_URL = "https://api.playsqorr.com/api/";// --  PROD //"https://staging-backoffice.azurewebsites.net/api/"; //  IP - .net
 //    public static final String BASE_URL = "https://api-playsqorr-prod.azurewebsites.net/api/";// --  PROD //"https://staging-backoffice.azurewebsites.net/api/"; //  IP - .net
 //    https://api.playsqorr.com/api/
 //    https://api.playsqorr.com/stage/api/
+    public static final String SPORTS = BASE_URL + "sports";
     public static final String LOGIN = BASE_URL + "login";
     public static final String SIGN_UP_URL = BASE_URL + "account/create";
     public static final String LEAGUE = BASE_URL + "league";

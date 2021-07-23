@@ -2380,16 +2380,16 @@ View.OnTouchListener touchListener = new View.OnTouchListener() {
                                 public void onClick(HashMap<String, String> matchup_selections) {
 
 
-                                    List<String> matchups_c1 = new ArrayList<String>(matchup_selections_new_cash.keySet());
-                                    List<String> pickindexes_c1 = new ArrayList<String>(matchup_selections_new_cash.values());
-
-                                    for (int i = 0; i < matchups_c1.size(); i++) {
-                                        Selection selection = new Selection();
-                                        selection.setMatchup(matchups_c1.get(i));
-                                        selection.setPickIndex(pickindexes_c1.get(i));
-
-                                    }
-                                    Log.e("2383-------------",matchup_selections+"----1----"+matchups_c1 + "----------2---"+pickindexes_c1);
+//                                    List<String> matchups_c1 = new ArrayList<String>(matchup_selections_new_cash.keySet());
+//                                    List<String> pickindexes_c1 = new ArrayList<String>(matchup_selections_new_cash.values());
+//
+//                                    for (int i = 0; i < matchups_c1.size(); i++) {
+//                                        Selection selection = new Selection();
+//                                        selection.setMatchup(matchups_c1.get(i));
+//                                        selection.setPickIndex(pickindexes_c1.get(i));
+//
+//                                    }
+   //                                 Log.e("2383-------------",matchup_selections+"----1----"+matchups_c1 + "----------2---"+pickindexes_c1);
 
                                     if ((matchup_selections.size()) >= 2 && (matchup_selections.size()) <= 10) {
 //                                        matchup_selections = matchup_selections;
