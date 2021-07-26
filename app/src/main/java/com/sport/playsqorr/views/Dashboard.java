@@ -20,6 +20,7 @@ import com.mixpanel.android.mpmetrics.MixpanelAPI;
 import com.sport.playsqorr.Api.API_class;
 import com.sport.playsqorr.Api.Retrofit_funtion_class;
 import com.sport.playsqorr.SensorService;
+import com.sport.playsqorr.fragments.HomeFrag;
 import com.sport.playsqorr.fragments.HomeFragNew;
 import com.sport.playsqorr.utilities.APIs;
 import com.squareup.picasso.MemoryPolicy;
@@ -561,11 +562,20 @@ public class Dashboard extends AppCompatActivity implements View.OnClickListener
     }
 
     private void setHome() {
+//        someFragment = new HomeFrag();
+//        FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();//getFragmentManager().beginTransaction();
+//        transaction.replace(R.id.frame_layout, someFragment); // give your fragment container id in first parameter
+//        transaction.addToBackStack(null);  // if written, this transaction will be added to backstack
+//        transaction.commit();
+
+
         someFragment = new HomeFragNew();
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();//getFragmentManager().beginTransaction();
         transaction.replace(R.id.frame_layout, someFragment); // give your fragment container id in first parameter
         transaction.addToBackStack(null);  // if written, this transaction will be added to backstack
         transaction.commit();
+
+
     }
 
 

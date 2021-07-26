@@ -1664,7 +1664,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
                                     mp.setCardType(jb.getString("cardType"));
                                     mp.setStartTime(jb.getString("startTime"));
                                     mp.setLeagueId(jb.getString("leagueId"));
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
                                     mp.setPlayerImageLeft(a1);
                                     mp.setPlayerImageRight(a2);
 
@@ -1787,7 +1787,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
                                     mp.setCardType(jb.getString("cardType"));
                                     mp.setStartTime(jb.getString("startTime"));
                                     mp.setLeagueId(jb.getString("leagueId"));
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
                                     mp.setPlayerImageLeft(a1);
                                     mp.setPlayerImageRight(a2);
 
@@ -1910,7 +1910,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
                                     mp.setCardType(jb.getString("cardType"));
                                     mp.setStartTime(jb.getString("startTime"));
                                     mp.setLeagueId(jb.getString("leagueId"));
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
                                     mp.setPlayerImageLeft(a1);
                                     mp.setPlayerImageRight(a2);
 
@@ -2034,7 +2034,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
                                     mp.setCardType(jb.getString("cardType"));
                                     mp.setStartTime(jb.getString("startTime"));
                                     mp.setLeagueId(jb.getString("leagueId"));
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
                                     mp.setPlayerImageLeft(a1);
                                     mp.setPlayerImageRight(a2);
 
@@ -2170,7 +2170,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
 //                            }
 
 
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
 
 
 //                                    mp.setIsPurchased(jb.getString("isPurchased"));
@@ -2313,7 +2313,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
 //                            }
 
 
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
 
 
 //                                    mp.setIsPurchased(jb.getString("isPurchased"));
@@ -2457,7 +2457,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
 //                            }
 
 
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
 
 
 //                                    mp.setIsPurchased(jb.getString("isPurchased"));
@@ -2602,7 +2602,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
 //                            }
 
 
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
 
 
 //                                    mp.setIsPurchased(jb.getString("isPurchased"));
@@ -2746,7 +2746,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
 //                            }
 
 
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
 
 
 //                                    mp.setIsPurchased(jb.getString("isPurchased"));
@@ -2881,7 +2881,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
 //                            }
 
 
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
 
 
 //                                    mp.setIsPurchased(jb.getString("isPurchased"));
@@ -3016,7 +3016,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
 //                            }
 
 
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
 
 
 //                                    mp.setIsPurchased(jb.getString("isPurchased"));
@@ -3153,7 +3153,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
 //                            }
 
 
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
 
 
                                     mp.setIsPurchased(jb.getString("isPurchased"));
@@ -3293,7 +3293,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
 //                            }
 
 
-                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                    mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
 
 
                               /*      mp.setIsPurchased(jb.getString("isPurchased"));
@@ -3473,7 +3473,7 @@ public class HomeFrag extends Fragment implements View.OnClickListener {
                                 mp.setMatchupType(jb.getString("matchupType"));
                                 mp.setStartTime(jb.getString("startTime"));
                                 mp.setLeagueId(jb.getString("leagueId"));
-                                mp.setLeagueAbbrevation(jb.getString("leagueAbbrevation"));
+                                mp.setLeagueAbbrevation(jb.getString("leagueAbbreviation"));
                                 mp.setPlayerImageLeft(a1);
                                 mp.setPlayerImageRight(a2);
 

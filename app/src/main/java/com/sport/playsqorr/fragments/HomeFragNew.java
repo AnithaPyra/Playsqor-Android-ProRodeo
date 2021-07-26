@@ -366,6 +366,7 @@ public class HomeFragNew extends Fragment implements View.OnClickListener {
 
                 .build()
                 .getAsJSONArray(new JSONArrayRequestListener() {
+                    @SuppressLint("ResourceType")
                     @Override
                     public void onResponse(JSONArray response) {
 
@@ -379,7 +380,7 @@ public class HomeFragNew extends Fragment implements View.OnClickListener {
 //                                txt_level1.setId(bb.getInt("sportId"));
                                 txt_level1.setText(bb.getString("name"));
                                 txt_level1.setClickable(true);
-                                txt_level1.setCompoundDrawablesWithIntrinsicBounds(R.drawable.ic_basketball, 0, 5, 0);
+    //                                txt_level1.setCompoundDrawablesWithIntrinsicBounds(R.drawable.ic_basketball, 0, 5, 0);
                                 txt_level1.setBackgroundResource(R.drawable.edit_border_white_home);
                                 txt_level1.setTextColor(ResourcesCompat.getColor(getResources(), R.color.black, null));
                              //   LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT);
@@ -479,11 +480,11 @@ public class HomeFragNew extends Fragment implements View.OnClickListener {
 
     }
 
-    private void getcardsFliters(String text, String text1) {
+    private void getcardsFliters(String txtLeaguename, String txtSportsName) {
 
-        Log.e("501----", text + "---" + text1);
+        Log.e("501----", txtLeaguename + "---" + txtSportsName);
 
-        getSubcardTyes(text, text1);
+        getSubcardTyes(txtLeaguename, txtSportsName);
     }
 
     private void getSubcardTyes(String league, String sports) {
