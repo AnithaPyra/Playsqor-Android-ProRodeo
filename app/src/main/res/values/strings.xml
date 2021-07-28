@@ -449,19 +449,19 @@
     <string name="wildcard_id">17</string>
     <string name="IndyCAR_id">29</string>
 
-<!--    <string name="mlb_lg_id">551351dc37b279523d469be2</string>-->
-<!--    <string name="nba_lg_id">547e6e1e57489582581c7d8b</string>-->
-<!--    <string name="epl_lg_id">588312f280e08f06fb4e5338</string>-->
-<!--    <string name="pro_lg_id">60acd782ad4b117ec15bb99a</string>-->
-<!--    <string name="LALIGA_lg_id">588d147080e08f06fb4ecbd7</string>-->
-<!--    <string name="nhl_lg_id">54b47ce6c85e70081a1637a2</string>-->
-<!--    <string name="nascar_lg_id">54e634250e03fdfe2d8569cd</string>-->
-<!--    <string name="NCAAMB_lg_id">5c78ffacba8cfd62d4060620</string>-->
-<!--    <string name="nfl_lg_id">547e6d5057489582581c7d83</string>-->
-<!--    <string name="mls_lg_id">58e564ea80e08f06fb5234f2</string>-->
-<!--    <string name="pga_lg_id">5ca4dd12ec0c61b7f5d822ef</string>-->
-<!--    <string name="nccfb_id">5d9f56eeb762fc5fcb8660cf</string>-->
-<!--    <string name="wildcard_id">5d6eb800c54b8b41d010626b</string>-->
+    <!--    <string name="mlb_lg_id">551351dc37b279523d469be2</string>-->
+    <!--    <string name="nba_lg_id">547e6e1e57489582581c7d8b</string>-->
+    <!--    <string name="epl_lg_id">588312f280e08f06fb4e5338</string>-->
+    <!--    <string name="pro_lg_id">60acd782ad4b117ec15bb99a</string>-->
+    <!--    <string name="LALIGA_lg_id">588d147080e08f06fb4ecbd7</string>-->
+    <!--    <string name="nhl_lg_id">54b47ce6c85e70081a1637a2</string>-->
+    <!--    <string name="nascar_lg_id">54e634250e03fdfe2d8569cd</string>-->
+    <!--    <string name="NCAAMB_lg_id">5c78ffacba8cfd62d4060620</string>-->
+    <!--    <string name="nfl_lg_id">547e6d5057489582581c7d83</string>-->
+    <!--    <string name="mls_lg_id">58e564ea80e08f06fb5234f2</string>-->
+    <!--    <string name="pga_lg_id">5ca4dd12ec0c61b7f5d822ef</string>-->
+    <!--    <string name="nccfb_id">5d9f56eeb762fc5fcb8660cf</string>-->
+    <!--    <string name="wildcard_id">5d6eb800c54b8b41d010626b</string>-->
 
     <string name="check_out_faq"><u>Check out our FAQ</u></string>
 
