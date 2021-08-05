@@ -1,0 +1,9 @@
+
+d
+java:S2095$"IUse try-with-resources or close this "InputStream" in a "finally" clause.(έξªωÿÿÿÿ
+e
+java:S2674("JCheck the return value of the "read" call to see how many bytes were read.(λ¥αοψÿÿÿÿ
+T
+java:S4719+"9Replace charset name argument with StandardCharsets.UTF_8(–έν¥ÿÿÿÿÿ
+B
+java:S1068"'Remove this unused "TAG" private field.(η‘δΆώÿÿÿÿ

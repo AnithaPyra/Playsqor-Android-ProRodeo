@@ -8,6 +8,8 @@ public interface DZ_URL
 
     String myrefers="myreferrals";
     String info="myinfo";
+    String cards="cards";
+
 
 
 }

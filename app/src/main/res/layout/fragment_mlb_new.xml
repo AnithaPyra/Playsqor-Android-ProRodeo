@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+   android:id="@+id/cvRoot"
     android:layout_width="180dp"
-    android:layout_height="wrap_content"
+    android:layout_height="230dp"
     android:layout_marginStart="16dp"
-    android:layout_marginEnd="16dp"
     android:layout_marginBottom="10dp"
-    android:elevation="0.5dp"
     android:paddingLeft="@dimen/size_ten"
     android:paddingBottom="@dimen/size_ten"
-    app:cardCornerRadius="2dp">
-
+    app:cardCornerRadius="@dimen/_4sdp">
+<!--        android:background="@drawable/edit_border_gray"
+-->
     <LinearLayout
         android:layout_width="match_parent"
-        android:background="@drawable/edit_border_gray"
-
         android:layout_height="match_parent"
+        android:background="@drawable/gray_rectangle_border"
         android:orientation="vertical">
 
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-
+<!--                android:background="@drawable/edit_border_org"
+-->
             <LinearLayout
                 android:id="@+id/llTotal"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/edit_border_org"
                 android:orientation="vertical"
                 android:padding="@dimen/size_ten">
 
@@ -51,20 +50,19 @@
 
                         <ImageView
                             android:id="@+id/player1Img"
-                            android:layout_width="75dp"
-                            android:layout_height="75dp"
+                            android:layout_width="85dp"
+                            android:layout_height="90dp"
                             android:layout_gravity="center|start"
                             android:scaleType="fitXY"
                             android:src="@drawable/prorodeo" />
 
                         <ImageView
                             android:id="@+id/player2Img"
-                            android:layout_width="75dp"
-                            android:layout_height="75dp"
+                            android:layout_width="85dp"
+                            android:layout_height="90dp"
                             android:layout_gravity="center|end"
                             android:layout_marginStart="1dp"
                             android:scaleType="fitXY"
-
                             android:src="@drawable/prorodeo" />
 
                     </LinearLayout>
@@ -78,25 +76,29 @@
                     android:layout_marginTop="@dimen/size_ten"
                     android:orientation="vertical">
 
+                    <!--                        android:fontFamily="@font/exo_extrabolditalic"
+-->
                     <TextView
                         android:id="@+id/tvCardTitle"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:ellipsize="end"
-                        android:fontFamily="@font/exo_extrabolditalic"
+                        android:fontFamily="@font/karla_bold"
+                        android:textStyle="normal"
                         android:gravity="center|start"
                         android:maxLines="1"
                         android:singleLine="true"
+                        android:layout_marginTop="15dp"
                         android:text="This is ne awy of checking the font s"
                         android:textColor="@color/darkest_gray"
-                        android:textSize="@dimen/small_size" />
+                        android:textSize="@dimen/hint_font_size" />
 
                     <RelativeLayout
 
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start"
-                        android:layout_marginTop="@dimen/size_ten">
+                        android:layout_marginTop="@dimen/_20dp">
 
                         <LinearLayout
                             android:id="@+id/llCardType"
@@ -108,14 +110,15 @@
                             android:paddingStart="0dp"
                             android:paddingEnd="5dp">
 
+                            <!-- android:src="@drawable/ic_matchup"-->
                             <ImageView
                                 android:id="@+id/ivMatchUp"
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
+                                android:layout_width="15dp"
+                                android:layout_height="15dp"
                                 android:layout_gravity="center"
-                                android:src="@drawable/ic_matchup" />
+                                android:src="@drawable/tag" />
 
-                            <TextView
+                          <!--  <TextView
                                 android:id="@+id/tvPlus"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -129,19 +132,21 @@
                             <ImageView
                                 android:id="@+id/ivOverUnder"
                                 android:layout_width="wrap_content"
-
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
-                                android:src="@drawable/ic_overunder" />
+                                android:src="@drawable/ic_overunder" />-->
                         </LinearLayout>
 
+                        <!--                            android:fontFamily="@font/exo_bold"
+-->
                         <TextView
                             android:id="@+id/tvMatchUpType"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
 
                             android:layout_toEndOf="@+id/llCardType"
-                            android:fontFamily="@font/exo_bold"
+                            android:fontFamily="@font/karla_regular"
+                            android:textStyle="normal"
                             android:gravity="center_vertical"
                             android:text="MATCH-UP"
                             android:textColor="@color/black"
@@ -173,21 +178,41 @@
 
                     </RelativeLayout>
 
-                    <TextView
-                        android:id="@+id/tvStartTime"
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_alignParentEnd="true"
-                        android:layout_centerVertical="true"
-                        android:layout_marginTop="@dimen/size_five"
-                        android:layout_marginEnd="0dp"
-                        android:drawableStart="@drawable/ic_access_time_black_24dp"
-                        android:drawablePadding="6dp"
-                        android:fontFamily="@font/exo_bold"
-                        android:text="45m"
-                        android:textColor="@color/black"
-                        android:textSize="@dimen/small_size"
-                        android:visibility="visible" />
+                    <!--                        android:fontFamily="@font/exo_bold"
+                                            android:drawableStart="@drawable/ic_access_time_black_24dp"
+
+-->
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <ImageView
+                            android:id="@+id/ivClock"
+                            android:layout_width="15dp"
+                            android:layout_height="15dp"
+                            android:src="@drawable/clock"
+                            android:layout_marginTop="10dp"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent"
+                            />
+                        <TextView
+                            android:id="@+id/tvStartTime"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="0dp"
+                            android:layout_marginStart="6dp"
+                            android:fontFamily="@font/karla_regular"
+                            android:textStyle="normal"
+                            android:text="45m"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/small_size"
+                            android:visibility="visible"
+                            app:layout_constraintTop_toTopOf="@+id/ivClock"
+                            app:layout_constraintBottom_toBottomOf="@+id/ivClock"
+                            app:layout_constraintStart_toEndOf="@+id/ivClock"/>
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
 
 
                 </LinearLayout>
@@ -195,23 +220,22 @@
 
 
             <LinearLayout
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
                 android:layout_gravity="right|top"
                 android:background="@drawable/edit_border_body"
                 android:orientation="horizontal">
 
                 <ImageView
-                    android:id="@+id/head_img_icon"
-                    android:layout_width="40dp"
-                    android:layout_height="40dp"
+                    android:id="@+id/ivSportBall"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
                     android:layout_gravity="top|end"
                     android:layout_marginEnd="-2dp"
-
                     android:baselineAlignBottom="false"
                     android:contentDescription="Dollar image"
                     android:cropToPadding="false"
-                    android:padding="@dimen/size_five"
+                    android:padding="5dp"
                     android:rotation="20"
                     android:scaleType="fitEnd"
                     android:src="@drawable/ic_am_football"

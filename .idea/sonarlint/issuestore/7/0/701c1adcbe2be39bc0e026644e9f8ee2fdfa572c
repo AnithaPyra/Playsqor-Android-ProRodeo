@@ -1,0 +1,216 @@
+
+D
+java:S1444^")Make this "public static PID" field final(›ş§˜üÿÿÿÿ
+F
+java:S1444_"+Make this "public static PNAME" field final(Ÿ¬İòıÿÿÿÿ
+G
+java:S1444`",Make this "public static PIMAGE" field final(ƒ”ÿÿÿÿÿ
+B
+java:S1444a",Make this "public static PEMAIL" field final(™”‡£
+b
+java:S1192£"FDefine a constant instead of duplicating this literal "title" 5 times.(ƒ“¯¦üÿÿÿÿ
+g	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶”Ê¼
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(† ¶¤şÿÿÿÿ
+g	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¯á¡
+g	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ»Ïó
+l	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÎ¨Ÿúÿÿÿÿ
+g	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šŠŸ
+l	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞáçÕúÿÿÿÿ
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß…Ïûÿÿÿÿ
+l	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìì‰œúÿÿÿÿ
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú ùİùÿÿÿÿ
+g	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ™İÍ
+l	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ€™ßüÿÿÿÿ
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú€»øÿÿÿÿ
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¯Ÿæ
+l	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÕÇòüÿÿÿÿ
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¡¼ª
+l	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨²’Íÿÿÿÿÿ
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¼ÿÿÿÿÿ
+?
+java:S1604È"(Make this anonymous inner class a lambda(ü€èÈ
+?
+java:S1604Î"(Make this anonymous inner class a lambda(Ş¶ã
+j
+java:S1104^"OMake PID a static final constant or non-public and provide accessors if needed.(›ş§˜üÿÿÿÿ
+l
+java:S1104_"QMake PNAME a static final constant or non-public and provide accessors if needed.(Ÿ¬İòıÿÿÿÿ
+m
+java:S1104`"RMake PIMAGE a static final constant or non-public and provide accessors if needed.(ƒ”ÿÿÿÿÿ
+h
+java:S1104a"RMake PEMAIL a static final constant or non-public and provide accessors if needed.(™”‡£
+N
+java:S1128"8Remove this unused import 'android.provider.MediaStore'.(ãçšş
+U
+java:S1128E":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+Y
+java:S11284"CRemove this unused import 'com.sport.playsqorr.crop.CropImageView'.(“òöô
+V
+java:S1128";Remove this unused import 'android.graphics.BitmapFactory'.(âàºÍûÿÿÿÿ
+K
+java:S1128F"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+J
+java:S1128D"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+I
+java:S1128"4Remove this unused import 'android.graphics.Bitmap'.(¾ì
+U
+java:S11283"?Remove this unused import 'com.sport.playsqorr.crop.CropImage'.(¡ËÜƒ
+G
+java:S1128"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ
+F
+java:S1128G"0Remove this unused import 'java.io.InputStream'.(¹»º
+v
+java:S1450X"[Remove the "AMOUNT_TOKEN" field and declare it as a local variable in the relevant methods.(¦´‘‚ûÿÿÿÿ
+r
+java:S1450X"WRemove the "CASH_BAL" field and declare it as a local variable in the relevant methods.(¦´‘‚ûÿÿÿÿ
+q
+java:S1450O"[Remove the "edit_profile" field and declare it as a local variable in the relevant methods.(Íƒ
+l
+java:S1450O"VRemove the "jn_home" field and declare it as a local variable in the relevant methods.(Íƒ
+z
+java:S1450R"_Remove the "viewTransactions" field and declare it as a local variable in the relevant methods.(Ñµ¢èşÿÿÿÿ
+i
+java:S3008^"NRename this field "PID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ş§˜üÿÿÿÿ
+k
+java:S3008_"PRename this field "PNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¬İòıÿÿÿÿ
+l
+java:S3008`"QRename this field "PIMAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”ÿÿÿÿÿ
+g
+java:S3008a"QRename this field "PEMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™”‡£
+@
+java:S1659O"*Declare "edit_profile" on a separate line.(Íƒ
+;
+java:S1659O"%Declare "jn_home" on a separate line.(Íƒ
+A
+java:S1659O"+Declare "tv_cash_toker" on a separate line.(Íƒ
+:
+java:S1659O"$Declare "tvName" on a separate line.(Íƒ
+B
+java:S1659O",Declare "tvProfileScore" on a separate line.(Íƒ
+C
+java:S1659O"-Declare "toolbar_title_x" on a separate line.(Íƒ
+<
+java:S1659O"&Declare "tvTokens" on a separate line.(Íƒ
+>
+java:S1659O"(Declare "age_status" on a separate line.(Íƒ
+=
+java:S1659O"'Declare "tv_agebtn" on a separate line.(Íƒ
+7
+java:S1659P"!Declare "ull" on a separate line.(¯„ª
+<
+java:S1659P"&Declare "llTokens" on a separate line.(¯„ª
+?
+java:S1659S"$Declare "faq_ll" on a separate line.(Ç¨üºúÿÿÿÿ
+@
+java:S1659S"%Declare "cust_ll" on a separate line.(Ç¨üºúÿÿÿÿ
+>
+java:S1659S"#Declare "pp_ll" on a separate line.(Ç¨üºúÿÿÿÿ
+A
+java:S1659S"&Declare "terms_ll" on a separate line.(Ç¨üºúÿÿÿÿ
+A
+java:S1659S"&Declare "about_ll" on a separate line.(Ç¨üºúÿÿÿÿ
+H
+java:S1659S"-Declare "linearViewrefer" on a separate line.(Ç¨üºúÿÿÿÿ
+O
+java:S1659S"4Declare "linearViewraiseaticket" on a separate line.(Ç¨üºúÿÿÿÿ
+O
+java:S1659S"4Declare "linearViewnotification" on a separate line.(Ç¨üºúÿÿÿÿ
+J
+java:S1659S"/Declare "linearLeaderboard" on a separate line.(Ç¨üºúÿÿÿÿ
+M
+java:S1659S"2Declare "linearNFLLeaderboard" on a separate line.(Ç¨üºúÿÿÿÿ
+A
+java:S1659X"&Declare "CASH_BAL" on a separate line.(¦´‘‚ûÿÿÿÿ
+D
+java:S1659X")Declare "AMOUNT_CASH" on a separate line.(¦´‘‚ûÿÿÿÿ
+E
+java:S1659X"*Declare "AMOUNT_TOKEN" on a separate line.(¦´‘‚ûÿÿÿÿ
+?
+java:S1659X"$Declare "AVATAR" on a separate line.(¦´‘‚ûÿÿÿÿ
+?
+java:S1659X"$Declare "MYWiNS" on a separate line.(¦´‘‚ûÿÿÿÿ
+@
+java:S1659X"%Declare "ACCNAME" on a separate line.(¦´‘‚ûÿÿÿÿ
+B
+java:S1659X"'Declare "USEREMAIL" on a separate line.(¦´‘‚ûÿÿÿÿ
+i	java:S116O"TRename this field "login_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íƒ
+l	java:S116O"WRename this field "edit_profile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íƒ
+g	java:S116O"RRename this field "jn_home" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íƒ
+m	java:S116O"XRename this field "tv_cash_toker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íƒ
+o	java:S116O"ZRename this field "toolbar_title_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íƒ
+j	java:S116O"URename this field "age_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íƒ
+i	java:S116O"TRename this field "tv_agebtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íƒ
+l	java:S116P"WRename this field "ll_add_funds" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯„ª
+k	java:S116S"QRename this field "how_ll" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨üºúÿÿÿÿ
+k	java:S116S"QRename this field "faq_ll" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨üºúÿÿÿÿ
+l	java:S116S"RRename this field "cust_ll" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨üºúÿÿÿÿ
+j	java:S116S"PRename this field "pp_ll" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨üºúÿÿÿÿ
+m	java:S116S"SRename this field "terms_ll" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨üºúÿÿÿÿ
+m	java:S116S"SRename this field "about_ll" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨üºúÿÿÿÿ
+m	java:S116T"SRename this field "cash_add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ë¯éûÿÿÿÿ
+i	java:S116X"ORename this field "ROLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦´‘‚ûÿÿÿÿ
+m	java:S116X"SRename this field "CASH_BAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦´‘‚ûÿÿÿÿ
+p	java:S116X"VRename this field "AMOUNT_CASH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦´‘‚ûÿÿÿÿ
+q	java:S116X"WRename this field "AMOUNT_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦´‘‚ûÿÿÿÿ
+k	java:S116X"QRename this field "AVATAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦´‘‚ûÿÿÿÿ
+k	java:S116X"QRename this field "MYWiNS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦´‘‚ûÿÿÿÿ
+l	java:S116X"RRename this field "ACCNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦´‘‚ûÿÿÿÿ
+n	java:S116X"TRename this field "USEREMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦´‘‚ûÿÿÿÿ
+i	java:S116["TRename this field "pr_images" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬”“Ë
+q	java:S116c"\Rename this field "age_verfiy_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤™´
+V	java:S125y"<This block of commented-out lines of code should be removed.(©‘Å£úÿÿÿÿ
+h
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(²‚Ä
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(âš´€ÿÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(µô®¥ûÿÿÿÿ
+R	java:S125ç"<This block of commented-out lines of code should be removed.(èŞ¢‚
+W	java:S125õ"<This block of commented-out lines of code should be removed.(µô®¥ûÿÿÿÿ
+R	java:S125ş"<This block of commented-out lines of code should be removed.(â“ùÌ
+W	java:S125›"<This block of commented-out lines of code should be removed.(Â„ãÄùÿÿÿÿ
+N
+java:S1135´"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+=	java:S131½""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(Ú˜È™úÿÿÿÿ
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(ĞüËù
+Q	java:S125ß"<This block of commented-out lines of code should be removed.(»ÈçX
+W	java:S125á"<This block of commented-out lines of code should be removed.(“ëÂôıÿÿÿÿ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(ºŠ¦ğûÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.( ±äöûÿÿÿÿ
+R	java:S125ô"<This block of commented-out lines of code should be removed.(“¯’°
+Q	java:S125÷"<This block of commented-out lines of code should be removed.(íÀâ`
+R	java:S125ù"<This block of commented-out lines of code should be removed.(¼¬íœ
+W	java:S125"<This block of commented-out lines of code should be removed.(Í¢æËşÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¯¸øğûÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(Úâá«şÿÿÿÿ
+m
+java:S1858Ş"Q"searchResponse" is already a string, there's no need to call "toString()" on it.(œĞ üÿÿÿÿ
+M
+java:S2696ñ"6Make the enclosing method "static" or remove this set.(ºèÜ¦
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(—†¿ğüÿÿÿÿ
+M
+java:S2696ò"6Make the enclosing method "static" or remove this set.(ãÀ¬Ú
+R
+java:S2696ó"6Make the enclosing method "static" or remove this set.(Ø¸©Óùÿÿÿÿ
+M
+java:S2696ô"6Make the enclosing method "static" or remove this set.(ÅÁ
+R	java:S125ÿ"<This block of commented-out lines of code should be removed.(Áúš
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(ğèÒÑÿÿÿÿÿ
+R
+java:S1854¯";Remove this useless assignment to local variable "r_image".(Ş¡¼ª
+g
+java:S3252¥"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ŠÌÄ
+p
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨´Õà
+
+java:S1186½"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ
+R	java:S125¸"<This block of commented-out lines of code should be removed.(¤Š¤ñ
+Q	java:S125Ä"<This block of commented-out lines of code should be removed.(í½©	
+W	java:S125ä"<This block of commented-out lines of code should be removed.(‘ûŒşÿÿÿÿ
+Y
+java:S1874Œ"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(Å›†"
+C
+java:S1481¯",Remove this unused "r_image" local variable.(Ş¡¼ª
+G
+java:S1068X",Remove this unused "CASH_BAL" private field.(¦´‘‚ûÿÿÿÿ
+K
+java:S1068X"0Remove this unused "AMOUNT_TOKEN" private field.(¦´‘‚ûÿÿÿÿ

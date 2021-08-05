@@ -1,0 +1,11 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„Å‘Ö
+V	java:S125!"<This block of commented-out lines of code should be removed.(ÖêÓ„ÿÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(ÖêÓ„ÿÿÿÿÿ
+Y
+java:S18548">Remove this useless assignment to local variable "customFont".(ŠÚÙ¸ùÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(ÝÔ”øøÿÿÿÿ
+J
+java:S14818"/Remove this unused "customFont" local variable.(ŠÚÙ¸ùÿÿÿÿ
+H
+java:S11446"2Remove this unused private "setCustomFont" method.(Á¸‰Ú

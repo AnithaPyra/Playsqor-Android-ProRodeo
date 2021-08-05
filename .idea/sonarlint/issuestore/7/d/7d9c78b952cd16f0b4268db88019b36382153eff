@@ -1,0 +1,232 @@
+
+E
+java:S1444C"*Make this "public static ROLE" field final(°±‘üşÿÿÿÿ
+H
+java:S1444D"2Make this "public static SESSIONTOKEN" field final(÷©¿ø
+I
+java:S1444E".Make this "public static NEWTOKEN" field final(°‡´ğøÿÿÿÿ
+H
+java:S1444F"2Make this "public static AMOUNT_TOKEN" field final(Œ÷‹Ù
+L
+java:S1444G"1Make this "public static AMOUNT_CASH" field final(Öòû­ûÿÿÿÿ
+D
+java:S1444H".Make this "public static CASH_BAL" field final(ä•°¨
+A
+java:S1444I",Make this "public static AVATAR" field final(Á…ÌB
+B
+java:S1444J",Make this "public static MYWiNS" field final(«¿à
+H
+java:S1444K"-Make this "public static ACCNAME" field final(ïÊãüÿÿÿÿ
+I
+java:S1444L".Make this "public static ACCEMAIL" field final(ªı·¶ÿÿÿÿÿ
+G
+java:S1444M",Make this "public static ACCREF" field final(³ü¤áûÿÿÿÿ
+J
+java:S1444N"/Make this "public static ACCNUMBER" field final(ıäˆşÿÿÿÿ
+D
+java:S1444O".Make this "public static v_status" field final(ò¿ëì
+F
+java:S1444S"0Make this "public static myDbHelper" field final(±ÖÅÓ
+g
+java:S1192á"KDefine a constant instead of duplicating this literal "Token User" 3 times.(¡ÿ§‚ùÿÿÿÿ
+]
+java:S1192É"FDefine a constant instead of duplicating this literal "error" 3 times.(…¾Úé
+a
+java:S1192¹"JDefine a constant instead of duplicating this literal "Cash User" 3 times.(¯¹”´
+g
+java:S1192†"KDefine a constant instead of duplicating this literal "Guest User" 4 times.(—áôÙıÿÿÿÿ
+l
+java:S1192»"PDefine a constant instead of duplicating this literal "Page User Home" 10 times.(°á¼´ıÿÿÿÿ
+b
+java:S1192Á"FDefine a constant instead of duplicating this literal "email" 7 times.(ş¯íŸşÿÿÿÿ
+f
+java:S1192¶"JDefine a constant instead of duplicating this literal "totalWins" 4 times.(ÀØ¹üÿÿÿÿ
+b
+java:S1192Ğ"LDefine a constant instead of duplicating this literal "accountType" 3 times.(…™á
+i
+java:S1192«"MDefine a constant instead of duplicating this literal "response  >>" 3 times.(œĞ üÿÿÿÿ
+b
+java:S1192Ê"FDefine a constant instead of duplicating this literal "phone" 5 times.(ÅÚÜëşÿÿÿÿ
+`
+java:S1192¹"IDefine a constant instead of duplicating this literal "userType" 5 times.(¯¹”´
+g
+java:S1192»"QDefine a constant instead of duplicating this literal "totalCashBalance" 3 times.(Ã¦ú|
+d
+java:S1192¿"MDefine a constant instead of duplicating this literal "tokenBalance" 5 times.(û÷Ô 
+Q
+java:S1141‘"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141¥"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÀØšûÿÿÿÿ
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‚ªÜ
+l	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÉºĞüÿÿÿÿ
+l	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øşÜ›üÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²õüí
+l	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§öô¸øÿÿÿÿ
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§öô¸øÿÿÿÿ
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ™İÍ
+l	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å˜µ³ÿÿÿÿÿ
+l	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²§ÑÅıÿÿÿÿ
+g	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ™İÍ
+k
+java:S1104C"PMake ROLE a static final constant or non-public and provide accessors if needed.(°±‘üşÿÿÿÿ
+n
+java:S1104D"XMake SESSIONTOKEN a static final constant or non-public and provide accessors if needed.(÷©¿ø
+o
+java:S1104E"TMake NEWTOKEN a static final constant or non-public and provide accessors if needed.(°‡´ğøÿÿÿÿ
+n
+java:S1104F"XMake AMOUNT_TOKEN a static final constant or non-public and provide accessors if needed.(Œ÷‹Ù
+r
+java:S1104G"WMake AMOUNT_CASH a static final constant or non-public and provide accessors if needed.(Öòû­ûÿÿÿÿ
+j
+java:S1104H"TMake CASH_BAL a static final constant or non-public and provide accessors if needed.(ä•°¨
+g
+java:S1104I"RMake AVATAR a static final constant or non-public and provide accessors if needed.(Á…ÌB
+h
+java:S1104J"RMake MYWiNS a static final constant or non-public and provide accessors if needed.(«¿à
+n
+java:S1104K"SMake ACCNAME a static final constant or non-public and provide accessors if needed.(ïÊãüÿÿÿÿ
+o
+java:S1104L"TMake ACCEMAIL a static final constant or non-public and provide accessors if needed.(ªı·¶ÿÿÿÿÿ
+m
+java:S1104M"RMake ACCREF a static final constant or non-public and provide accessors if needed.(³ü¤áûÿÿÿÿ
+p
+java:S1104N"UMake ACCNUMBER a static final constant or non-public and provide accessors if needed.(ıäˆşÿÿÿÿ
+j
+java:S1104O"TMake v_status a static final constant or non-public and provide accessors if needed.(ò¿ëì
+l
+java:S1104S"VMake myDbHelper a static final constant or non-public and provide accessors if needed.(±ÖÅÓ
+
+java:S1186ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œƒƒ©ùÿÿÿÿ
+j
+java:S3008C"ORename this field "ROLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°±‘üşÿÿÿÿ
+m
+java:S3008D"WRename this field "SESSIONTOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷©¿ø
+n
+java:S3008E"SRename this field "NEWTOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°‡´ğøÿÿÿÿ
+m
+java:S3008F"WRename this field "AMOUNT_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ÷‹Ù
+q
+java:S3008G"VRename this field "AMOUNT_CASH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öòû­ûÿÿÿÿ
+i
+java:S3008H"SRename this field "CASH_BAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä•°¨
+f
+java:S3008I"QRename this field "AVATAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á…ÌB
+g
+java:S3008J"QRename this field "MYWiNS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¿à
+m
+java:S3008K"RRename this field "ACCNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÊãüÿÿÿÿ
+n
+java:S3008L"SRename this field "ACCEMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªı·¶ÿÿÿÿÿ
+l
+java:S3008M"QRename this field "ACCREF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ü¤áûÿÿÿÿ
+o
+java:S3008N"TRename this field "ACCNUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıäˆşÿÿÿÿ
+i
+java:S3008O"SRename this field "v_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¿ëì
+<
+java:S1659R"&Declare "tvTokens" on a separate line.(”æª
+>
+java:S1659R"(Declare "tvUserCash" on a separate line.(”æª
+D
+java:S1659T".Declare "loggedUserHeader" on a separate line.(§¤á
+@
+java:S1659U"*Declare "llUserTokens" on a separate line.(¼°¬“
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(ÇÖ›¬
+X	java:S125]"<This block of commented-out lines of code should be removed.(ÚüşØ8¸ÖŞ°°/
+Q
+java:S2696o"6Make the enclosing method "static" or remove this set.(°±²éşÿÿÿÿ
+X	java:S125s"<This block of commented-out lines of code should be removed.(§°ƒí8¸ºÓ°°/
+_
+java:S1854¨"CRemove this useless assignment to local variable "updatetokenTest".(†Øèÿÿÿÿÿ
+n
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(¾Ã§Äÿÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(ÑÄÙ§ùÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(ÃÏÎÓ
+R	java:S125ï"<This block of commented-out lines of code should be removed.(ÃÏÎÓ
+M
+java:S2696€"6Make the enclosing method "static" or remove this set.(òá½ä
+R	java:S125"<This block of commented-out lines of code should be removed.(ÃÏÎÓ
+m
+java:S1858«"Q"searchResponse" is already a string, there's no need to call "toString()" on it.(œĞ üÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(—†¿ğüÿÿÿÿ
+R	java:S125¼"<This block of commented-out lines of code should be removed.(Áúš
+W	java:S125À"<This block of commented-out lines of code should be removed.(ğèÒÑÿÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(ùïÃşúÿÿÿÿ
+˜
+java:S1186¦"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾’‘Â
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(âš´€ÿÿÿÿÿ
+M
+java:S2696¸"6Make the enclosing method "static" or remove this set.(¼çûÌ
+R
+java:S2696¹"6Make the enclosing method "static" or remove this set.(™óÚÑûÿÿÿÿ
+M
+java:S2696º"6Make the enclosing method "static" or remove this set.(¯½º
+R
+java:S2696»"6Make the enclosing method "static" or remove this set.(ø©”Öúÿÿÿÿ
+R
+java:S2696¼"6Make the enclosing method "static" or remove this set.(Ø¼Ì¶úÿÿÿÿ
+M
+java:S2696½"6Make the enclosing method "static" or remove this set.(‚…
+M
+java:S2696¾"6Make the enclosing method "static" or remove this set.(çö”ª
+M
+java:S2696¿"6Make the enclosing method "static" or remove this set.(ÿüŸè
+M
+java:S2696À"6Make the enclosing method "static" or remove this set.(’¶
+M
+java:S2696Á"6Make the enclosing method "static" or remove this set.(š”‡â
+R
+java:S2696Â"6Make the enclosing method "static" or remove this set.(šÍ¤ëûÿÿÿÿ
+M
+java:S2696Ã"6Make the enclosing method "static" or remove this set.(é‹ì§
+X	java:S125Ä"<This block of commented-out lines of code should be removed.(‘ƒÓ18÷¾İ°°/
+M
+java:S2696È"6Make the enclosing method "static" or remove this set.(¦ ˜“
+R
+java:S2696É"6Make the enclosing method "static" or remove this set.(»¨×‚ıÿÿÿÿ
+M
+java:S2696Ê"6Make the enclosing method "static" or remove this set.(òá½ä
+M
+java:S2696Ë"6Make the enclosing method "static" or remove this set.(§ øã
+L
+java:S2696Ì"6Make the enclosing method "static" or remove this set.(ÁÌún
+R
+java:S2696Í"6Make the enclosing method "static" or remove this set.(ÕêÉšùÿÿÿÿ
+R
+java:S2696Î"6Make the enclosing method "static" or remove this set.(ÉÓÅÀøÿÿÿÿ
+M
+java:S2696Ï"6Make the enclosing method "static" or remove this set.(àƒşĞ
+M
+java:S2696Ğ"6Make the enclosing method "static" or remove this set.( ²ÆÍ
+L
+java:S2696Ñ"6Make the enclosing method "static" or remove this set.(ÚœãQ
+M
+java:S2696Ò"6Make the enclosing method "static" or remove this set.(÷†™‹
+M
+java:S2696Ö"6Make the enclosing method "static" or remove this set.(òá½ä
+W	java:S125è"<This block of commented-out lines of code should be removed.(ùæ¯Áüÿÿÿÿ
+R	java:S125ø"<This block of commented-out lines of code should be removed.(ïöéí
+W	java:S125²"<This block of commented-out lines of code should be removed.(–æÉÎÿÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¨­ùÅøÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(ÈÀÓæúÿÿÿÿ
+R	java:S125Î"<This block of commented-out lines of code should be removed.(§«¼’
+R	java:S125İ"<This block of commented-out lines of code should be removed.(òÁ£—
+W	java:S125ã"<This block of commented-out lines of code should be removed.(†Şİ¨üÿÿÿÿ
+R	java:S125ú"<This block of commented-out lines of code should be removed.(€ÌÒ²
+R	java:S125€"<This block of commented-out lines of code should be removed.(æ²”»
+W	java:S125›"<This block of commented-out lines of code should be removed.(ÔõŞ‡øÿÿÿÿ
+i
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‚âçØ
+T	java:S106Í"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+T	java:S106Ô"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+m
+java:S1858Ù"Q"searchResponse" is already a string, there's no need to call "toString()" on it.(€‰Ù¨øÿÿÿÿ
+M
+java:S2696æ"6Make the enclosing method "static" or remove this set.(»¾ì¹
+W	java:S125è"<This block of commented-out lines of code should be removed.(—†¿ğüÿÿÿÿ
+R	java:S125ô"<This block of commented-out lines of code should be removed.(Áúš
+W	java:S125ø"<This block of commented-out lines of code should be removed.(ğèÒÑÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(öÅïë
+P
+java:S1481¨"4Remove this unused "updatetokenTest" local variable.(†Øèÿÿÿÿÿ

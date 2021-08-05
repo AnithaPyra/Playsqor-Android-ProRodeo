@@ -1,0 +1,12 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(­€…Èÿÿÿÿÿ
+L
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(¯ùøñıÿÿÿÿ
+N
+java:S1874T"3Remove this use of "isCancelled"; it is deprecated.(óÀÀşşÿÿÿÿ
+N
+java:S1874Y"3Remove this use of "isCancelled"; it is deprecated.(óÀÀşşÿÿÿÿ
+e
+java:S1874n"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(éïäÕşÿÿÿÿ
+N
+java:S1874q"3Remove this use of "isCancelled"; it is deprecated.(óÀÀşşÿÿÿÿ

@@ -1,0 +1,28 @@
+
+Y
+java:S1155Z">Use isEmpty() to check whether the collection is empty or not.(óû×›ùÿÿÿÿ
+o
+java:S14889"YImmediately return this expression instead of assigning it to the temporary variable "v".(¼¥Þ
+n
+java:S3008+"XRename this field "myCardsPojo_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ––†
+k
+java:S3008-"URename this field "data_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ¯³á
+j	java:S116/"PRename this field "ll_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó÷ž„ÿÿÿÿÿ
+k	java:S1160"VRename this field "cards_cycle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š„æ­
+>
+java:S1185%"(Remove this method to simply inherit it.(ßìê¯
+>
+java:S1185@"(Remove this method to simply inherit it.(ˆÏ€¶
+C
+java:S1185F"(Remove this method to simply inherit it.(Ç™²“øÿÿÿÿ
+h
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ö‰ü¼
+Q	java:S125W"<This block of commented-out lines of code should be removed.(¡„‚¨
+K
+java:S1874^"0Remove this use of "getColor"; it is deprecated.(Æ÷Ÿ—üÿÿÿÿ
+C
+java:S1172™",Remove this unused method parameter "fname".(‡Á¹°
+R
+java:S2696›"6Make the enclosing method "static" or remove this set.(«‹‚Åüÿÿÿÿ
+L
+java:S2696œ"6Make the enclosing method "static" or remove this set.(÷×ì

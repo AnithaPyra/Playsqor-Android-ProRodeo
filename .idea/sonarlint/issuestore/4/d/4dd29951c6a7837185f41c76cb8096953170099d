@@ -1,0 +1,12 @@
+
+\	java:S107V"BConstructor has 15 parameters, which is greater than 7 authorized.(Íí˜³şÿÿÿÿ
+\	java:S107|"BConstructor has 17 parameters, which is greater than 7 authorized.(Íí˜³şÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(­€…Èÿÿÿÿÿ
+L
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.( Íâ†şÿÿÿÿ
+O
+java:S1874®"3Remove this use of "isCancelled"; it is deprecated.(óÀÀşşÿÿÿÿ
+f
+java:S1874ê"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(éïäÕşÿÿÿÿ
+O
+java:S1874í"3Remove this use of "isCancelled"; it is deprecated.(óÀÀşşÿÿÿÿ

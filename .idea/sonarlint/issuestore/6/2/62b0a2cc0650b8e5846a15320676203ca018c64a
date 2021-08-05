@@ -1,0 +1,102 @@
+
+_
+java:S1192º"HDefine a constant instead of duplicating this literal "country" 4 times.(ŒØ•‚
+e
+java:S1192é"NDefine a constant instead of duplicating this literal "SESSION_TOKEN" 3 times.(‡²¨Í
+]
+java:S1192¹"FDefine a constant instead of duplicating this literal "state" 4 times.(³ßô¢
+d
+java:S1192¿"MDefine a constant instead of duplicating this literal "tokenBalance" 3 times.(ßÃ ù
+i
+java:S1192»"MDefine a constant instead of duplicating this literal "userPlayMode" 4 times.(ª±şüıÿÿÿÿ
+i
+java:S1192Â"MDefine a constant instead of duplicating this literal "referralCode" 4 times.(‘òŠÎúÿÿÿÿ
+]
+java:S1192”"FDefine a constant instead of duplicating this literal "email" 9 times.(üæ¾
+f
+java:S1192Á"JDefine a constant instead of duplicating this literal "totalWins" 3 times.(¿è¬ãùÿÿÿÿ
+`
+java:S1192·"IDefine a constant instead of duplicating this literal "fullName" 4 times.(ä¹Â§
+^
+java:S1192¾"GDefine a constant instead of duplicating this literal "avatar" 3 times.(Ó÷Ÿå
+^
+java:S1192Ç"GDefine a constant instead of duplicating this literal "token" 15 times.(Í®¯‹
+m
+java:S1192¼"QDefine a constant instead of duplicating this literal "totalCashBalance" 4 times.(ÑÂèøûÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šŠÜ
+l	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Öåşÿÿÿÿ
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¸ĞÇşÿÿÿÿ
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Üã
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÀşËşÿÿÿÿ
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¤ä
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üô÷…
+g	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÆÙ‘
+f	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‰î;
+f	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‰î;
+g	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù–¨é
+g	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒàÅä
+g	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù–¨é
+g	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒàÅä
+g	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÔêé
+l	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ó’ªùÿÿÿÿ
+f	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‰î;
+g	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¤ä
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üô÷…
+l	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø½ªïüÿÿÿÿ
+f	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‰î;
+D
+java:S1604‹"(Make this anonymous inner class a lambda(Š¤ûÿÿÿÿ
+D
+java:S1604÷"(Make this anonymous inner class a lambda(Š¤ûÿÿÿÿ
+˜
+java:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+E
+java:S1659A"*Declare "tv_error_msg" on a separate line.(¬‰Ëüÿÿÿÿ
+?
+java:S1659B")Declare "et_password" on a separate line.(€œ¥Â
+A
+java:S1659C"&Declare "pwd_view" on a separate line.(Œ±µ€üÿÿÿÿ
+@
+java:S1659F"*Declare "userFullName" on a separate line.(ë¶˜µ
+:
+java:S1659F"$Declare "userId" on a separate line.(ë¶˜µ
+m	java:S116A"SRename this field "tv_login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬‰Ëüÿÿÿÿ
+q	java:S116A"WRename this field "tv_error_msg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬‰Ëüÿÿÿÿ
+p	java:S116B"[Rename this field "et_email_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€œ¥Â
+k	java:S116B"VRename this field "et_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€œ¥Â
+o	java:S116C"URename this field "email_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ±µ€üÿÿÿÿ
+m	java:S116C"SRename this field "pwd_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ±µ€üÿÿÿÿ
+h	java:S116N"SRename this field "FCMToken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğˆ»ç
+o	java:S116Q"ZRename this field "toolbar_title_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ò˜ş
+L
+java:S1874P"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+Q
+java:S1874k"6Remove this use of "ProgressDialog"; it is deprecated.(‡Ïßçùÿÿÿÿ
+M
+java:S1874m"2Remove this use of "setMessage"; it is deprecated.(ÔòÌøÿÿÿÿ
+?
+java:S1185ú"(Remove this method to simply inherit it.(Ù«µ§
+i
+java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(ÕµøÉ
+S
+java:S1874"7Remove this use of "formatIpAddress"; it is deprecated.(®¢ºùÿÿÿÿ
+R	java:S125š"<This block of commented-out lines of code should be removed.(Ññ¾
+W	java:S125¡"<This block of commented-out lines of code should be removed.(ŒÔøÎøÿÿÿÿ
+R	java:S125½"<This block of commented-out lines of code should be removed.(†ìÀ¾
+W	java:S125À"<This block of commented-out lines of code should be removed.(õÔêÉøÿÿÿÿ
+R	java:S125×"<This block of commented-out lines of code should be removed.(Áúš
+W	java:S125Û"<This block of commented-out lines of code should be removed.(ğèÒÑÿÿÿÿÿ
+T
+java:S2696î"6Make the enclosing method "static" or remove this set.(†Á—ö8ğ¿ëİ°/
+R	java:S125ş"<This block of commented-out lines of code should be removed.(Ø‰¼
+W	java:S125ë"<This block of commented-out lines of code should be removed.(õ¡øÿÿÿÿ
+R	java:S125œ"<This block of commented-out lines of code should be removed.(˜¶«î
+>
+java:S1185¡"(Remove this method to simply inherit it.(ºŠñ=
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(‡›å†øÿÿÿÿ
+R	java:S125”"<This block of commented-out lines of code should be removed.(†ìÀ¾
+R	java:S125£"<This block of commented-out lines of code should be removed.(Áúš
+W	java:S125§"<This block of commented-out lines of code should be removed.(ğèÒÑÿÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(ÏÅŞÕúÿÿÿÿ
+=
+java:S1481ş"'Remove this unused "id" local variable.(°æ—L

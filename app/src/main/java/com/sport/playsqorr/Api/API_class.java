@@ -1,6 +1,8 @@
 package com.sport.playsqorr.Api;
 
 import com.google.gson.JsonElement;
+import com.sport.playsqorr.pojos.GetCardsResponse;
+import com.sport.playsqorr.pojos.MyCardsPojo;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
@@ -23,4 +25,8 @@ public interface API_class
     @GET(DZ_URL.info)
     Call<JsonElement> info(@Header("Accept") String authorization, @Header("Authorization") String NEWTOKEN);
 //    Call<JsonElement> info(@Header("Accept") String authorization, @Header("sessionToken") String sessionToken,@Header("Authorization") String NEWTOKEN);
+
+
+    @GET(DZ_URL.cards)
+    Call<MyCardsPojo> getCards(@Header("Accept") String authorization, @Header("Authorization") String NEWTOKEN);
 }

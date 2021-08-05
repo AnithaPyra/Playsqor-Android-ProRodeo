@@ -1,0 +1,38 @@
+
+_
+java:S1192®"HDefine a constant instead of duplicating this literal "NFLVETS" 4 times.(É£‘ß
+g	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü›§®
+l	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž–ôÓüÿÿÿÿ
+l	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç­©Ñùÿÿÿÿ
+g	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¤£¡
+g	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«®úŒ
+>
+java:S1604"(Make this anonymous inner class a lambda(ýÙ5
+D
+java:S1604™"(Make this anonymous inner class a lambda(—çßûüÿÿÿÿ
+D
+java:S1604©"(Make this anonymous inner class a lambda(ÂÖùÿþÿÿÿÿ
+>
+java:S1604½"(Make this anonymous inner class a lambda(ýÙ5
+D
+java:S1604É"(Make this anonymous inner class a lambda(—çßûüÿÿÿÿ
+D
+java:S1604Ö"(Make this anonymous inner class a lambda(ÂÖùÿþÿÿÿÿ
+i	java:S116$"ORename this field "ROLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÂ†Ýùÿÿÿÿ
+>
+java:S1185("(Remove this method to simply inherit it.(ßìê¯
+>
+java:S1185>"(Remove this method to simply inherit it.(ˆÏ€¶
+C
+java:S1185C"(Remove this method to simply inherit it.(Ç™²“øÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(Ï£˜ýüÿÿÿÿ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(‡ÂÙª
+W	java:S125”"<This block of commented-out lines of code should be removed.(–¡óÛýÿÿÿÿ
+S
+java:S1854ò"<Remove this useless assignment to local variable "position".(©ÃÙº
+X
+java:S1854ñ"<Remove this useless assignment to local variable "viewType".(¼ëûüÿÿÿÿ
+I
+java:S1481ñ"-Remove this unused "viewType" local variable.(¼ëûüÿÿÿÿ
+D
+java:S1481ò"-Remove this unused "position" local variable.(©ÃÙº

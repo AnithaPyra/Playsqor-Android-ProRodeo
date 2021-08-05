@@ -8,15 +8,17 @@
     android:orientation="horizontal"
     android:layout_marginRight="5dp"
     >
+<!--        app:srcCompat="@drawable/menu_unselected"
+-->
 
-    <ImageView
+
+    <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/imgMenuIcon"
         android:layout_width="25dp"
         android:layout_height="25dp"
         android:layout_gravity="center"
         android:layout_marginLeft="10dp"
-        app:srcCompat="@drawable/menu_unselected"
-android:layout_marginTop="10dp"
+        android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
         tools:ignore="VectorDrawableCompat" />
 

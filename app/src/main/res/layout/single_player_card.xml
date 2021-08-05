@@ -22,7 +22,7 @@
         <androidx.cardview.widget.CardView
             android:id="@+id/win_loss_statusView"
             android:layout_width="120dp"
-            android:layout_height="20dp"
+            android:layout_height="50dp"
             android:layout_gravity="center"
             android:background="@android:color/transparent"
             app:cardCornerRadius="8dp">
@@ -128,12 +128,14 @@
                             android:gravity="center|start"
                             android:orientation="vertical">
 
+                            <!--                                android:fontFamily="@font/exo_bold"
+-->
                             <TextView
                                 android:id="@+id/player_Name"
                                 android:layout_width="wrap_content"
 
                                 android:layout_height="wrap_content"
-                                android:fontFamily="@font/exo_bold"
+                                android:fontFamily="@font/karla_bold"
                                 android:gravity="center"
                                 android:lines="1"
                                 android:text="Player name"
@@ -145,14 +147,17 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:orientation="horizontal"
+                                android:layout_marginTop="@dimen/_5sdp"
                                 android:weightSum="2">
 
+                                <!--                                    android:fontFamily="@font/exo_bold"
+-->
                                 <TextView
                                     android:id="@+id/player_Match"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
-                                    android:fontFamily="@font/exo_bold"
+                                    android:fontFamily="@font/karla_regular"
                                     android:gravity="center|start"
                                     android:text="POR vs GCM"
                                     android:textColor="@color/medium_gray"
@@ -193,15 +198,17 @@
                                     android:textColor="@color/medium_gray"
                                     android:textSize="@dimen/small_size"
                                     android:visibility="gone" />
-
+<!--                                    android:fontFamily="@font/exo_bold"
+-->
                                 <TextView
                                     android:id="@+id/player_time"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
-                                    android:fontFamily="@font/exo_bold"
+                                    android:fontFamily="@font/karla_regular"
                                     android:gravity="center"
                                     android:text="1h 54m"
+                                    android:layout_marginTop="@dimen/_2sdp"
                                     android:textColor="@color/medium_gray"
                                     android:textSize="@dimen/small_size" />
 

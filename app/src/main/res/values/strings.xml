@@ -599,4 +599,11 @@
 
     <string name="bingo_1">Play Tac Toe is a bingo game consisting of player-to-player matchups in each of the 9 squares of the grid. Players win by selecting their favored player in each of the 9 squares. Once the actual sporting events are complete, if your selected player in a matchup beats the other player, your square is marked with an “O”. You win by getting at least 3 squares in a row either up or down, across, or diagonally. You win even more by getting additional sets of 3 in a row or winning all 9 squares.</string>
     <string name="bingo_gep">Bingo results depend on a game ending pattern or patterns. Our game ending pattern is in multiple 2 block segments, each qualified by the correct selection of the athlete results. The following are game ending patterns:</string>
+
+    <string name="server_error">Server Error</string>
+    <string name="unauthorized_user">unauthorized</string>
+    <string name="soor_pts_n_avgs"><![CDATA[SOOR PTS\n& AVGS]]></string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_maecenas_varius_tortor_nibh_sit_amet_tempor_nibh_finibus_et_aenean_eu_enim_justo_vestibulum_aliquam_hendrerit_molestie">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam hendrerit molestie.</string>
+
+
 </resources>

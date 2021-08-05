@@ -56,7 +56,9 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true"
         tools:replace="android:allowBackup">
-        <activity android:name=".views.SqorrAvgs"></activity>
+        <activity android:name=".matchup.ui.activity.CardTypePlayTacToeActivity"></activity>
+        <activity android:name=".matchup.ui.activity.CardTypeMatchupActivity" />
+        <activity android:name=".views.SqorrAvgs" />
         <activity android:name=".views.Matchup_WinPlayGoTimeTwo" />
         <activity
             android:name=".views.RasieTicketChatScreen"

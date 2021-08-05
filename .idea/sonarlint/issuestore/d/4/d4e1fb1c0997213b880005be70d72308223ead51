@@ -1,0 +1,80 @@
+
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²§ÑÅıÿÿÿÿ
+C
+java:S1604K"(Make this anonymous inner class a lambda(´´ªäÿÿÿÿÿ
+>
+java:S1604["(Make this anonymous inner class a lambda(éê…¬
+>
+java:S1604a"(Make this anonymous inner class a lambda(¸‡Î
+C
+java:S16591"(Declare "tobeEarned" on a separate line.(¼´İ•şÿÿÿÿ
+@
+java:S16597"*Declare "SESSIONTOKEN" on a separate line.(Âè £
+<
+java:S16597"&Declare "NEWTOKEN" on a separate line.(Âè £
+:
+java:S16597"$Declare "STATE_" on a separate line.(Âè £
+<
+java:S16597"&Declare "COUNTRY_" on a separate line.(Âè £
+9
+java:S16597"#Declare "CITY_" on a separate line.(Âè £
+@
+java:S16597"*Declare "AMOUNT_TOKEN" on a separate line.(Âè £
+:
+java:S16597"$Declare "AVATAR" on a separate line.(Âè £
+:
+java:S16597"$Declare "MYWiNS" on a separate line.(Âè £
+;
+java:S16597"%Declare "ACCNAME" on a separate line.(Âè £
+9
+java:S16597"#Declare "EMAIL" on a separate line.(Âè £
+:
+java:S16597"$Declare "NUMBER" on a separate line.(Âè £
+7
+java:S16597"!Declare "DOB" on a separate line.(Âè £
+8
+java:S16598""Declare "tobe" on a separate line.(©à’š
+8
+java:S16598""Declare "done" on a separate line.(©à’š
+o	java:S116-"ZRename this field "toolbar_title_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ò˜ş
+r	java:S1166"XRename this field "myCardsPojo_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ıæøÿÿÿÿ
+d	java:S1167"ORename this field "ROLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+l	java:S1167"WRename this field "SESSIONTOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+h	java:S1167"SRename this field "NEWTOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+f	java:S1167"QRename this field "STATE_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+h	java:S1167"SRename this field "COUNTRY_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+e	java:S1167"PRename this field "CITY_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+l	java:S1167"WRename this field "AMOUNT_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+f	java:S1167"QRename this field "AVATAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+f	java:S1167"QRename this field "MYWiNS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+g	java:S1167"RRename this field "ACCNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+e	java:S1167"PRename this field "EMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+f	java:S1167"QRename this field "NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+c	java:S1167"NRename this field "DOB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè £
+n	java:S1169"YRename this field "toolbar_sub_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€™Ë“
+L
+java:S18743"6Remove this use of "ProgressDialog"; it is deprecated.(¦ó‹˜
+L
+java:S1874@"6Remove this use of "ProgressDialog"; it is deprecated.(À¢“Æ
+f
+java:S1874P"KRemove this use of "FLAG_ACTIVITY_CLEAR_WHEN_TASK_RESET"; it is deprecated.(ÂµÇøÿÿÿÿ
+P
+java:S2479T":Remove the non-escaped \u00A0 character from this literal.(¬µ‚ä
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(âš´€ÿÿÿÿÿ
+Q	java:S125‹"<This block of commented-out lines of code should be removed.(îĞT
+I
+java:S1874"2Remove this use of "setMessage"; it is deprecated.(Ïı…¬
+O
+java:S1874‘"8Remove this use of "setProgressStyle"; it is deprecated.(Œ÷ßÎ
+M
+java:S1874‘"6Remove this use of "ProgressDialog"; it is deprecated.(Œ÷ßÎ
+L
+java:S1874‘"5Remove this use of "STYLE_SPINNER"; it is deprecated.(Œ÷ßÎ
+Q	java:S125›"<This block of commented-out lines of code should be removed.(ş«ŒS
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+h
+java:S1858¯"Q"searchResponse" is already a string, there's no need to call "toString()" on it.(ÂÅÕñ
+W	java:S125´"<This block of commented-out lines of code should be removed.(—†¿ğüÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(±º°üÿÿÿÿ
+R	java:S125Î"<This block of commented-out lines of code should be removed.(øò›Â

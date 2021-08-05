@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/white"
 
     android:fitsSystemWindows="true">
 
     <View
+        android:id="@+id/view"
         android:layout_width="match_parent"
         android:layout_height="5dp"
-        android:background="#3C70B1" />
+        android:background="#3C70B1"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appBar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
         android:layout_marginTop="5dp"
-        android:theme="@style/ThemeOverlay.AppCompat.ActionBar">
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:layout_constraintTop_toBottomOf="@+id/view">
 
         <include
             layout="@layout/tool_bar_players_list"
@@ -39,4 +42,4 @@
         android:layout_height="match_parent" />
     <!--    <include layout="@layout/wager" />-->
 
-</androidx.coordinatorlayout.widget.CoordinatorLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

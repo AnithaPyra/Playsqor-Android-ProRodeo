@@ -1,0 +1,23 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¯‡Åşÿÿÿÿ
+R
+java:S1874E"<Remove this use of "KeyPairGeneratorSpec"; it is deprecated.(©õÍ™
+R
+java:S1874E"<Remove this use of "KeyPairGeneratorSpec"; it is deprecated.(©õÍ™
+E
+java:S1874E"/Remove this use of "Builder"; it is deprecated.(©õÍ™
+F
+java:S1874E"0Remove this use of "setAlias"; it is deprecated.(©õÍ™
+M
+java:S1874F"2Remove this use of "setSubject"; it is deprecated.(Ÿøòúùÿÿÿÿ
+R
+java:S1874G"7Remove this use of "setSerialNumber"; it is deprecated.(„†ù‘ıÿÿÿÿ
+O
+java:S1874H"4Remove this use of "setStartDate"; it is deprecated.(÷­¥ƒÿÿÿÿÿ
+H
+java:S1874I"2Remove this use of "setEndDate"; it is deprecated.(³ŸäÌ
+H
+java:S1874J"-Remove this use of "build"; it is deprecated.(­Ÿ¤´şÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(Âö“±ùÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(âÇæ´ıÿÿÿÿ

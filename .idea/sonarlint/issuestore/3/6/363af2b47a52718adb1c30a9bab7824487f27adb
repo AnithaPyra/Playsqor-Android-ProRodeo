@@ -1,0 +1,12 @@
+
+k	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èñô“ÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¼ýšüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š÷ˆœ
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÁôÖþÿÿÿÿ8½„õ»¯/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½×›Š
+d
+java:S1128"GRemove this unused import 'com.sport.playsqorr.pojos.GetCardsResponse'.(¤¶Š•8Šúó¼¯/
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¯ïÅ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¼ýšüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(â§ÃÔ
+Q	java:S125"<This block of commented-out lines of code should be removed.(žé›ô

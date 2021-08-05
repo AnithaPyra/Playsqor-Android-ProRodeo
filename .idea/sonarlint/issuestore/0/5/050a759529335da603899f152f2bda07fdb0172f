@@ -1,0 +1,100 @@
+
+J
+java:S14446"4Make this "public static progressDialog" field final(ŒÎó
+g
+java:S1192İ"KDefine a constant instead of duplicating this literal "thumbnail" 13 times.(€óÏşÿÿÿÿ
+j
+java:S1192Û"SDefine a constant instead of duplicating this literal "durationInSeconds" 13 times.(×ÙÃß
+p
+java:S1192Ñ"TDefine a constant instead of duplicating this literal "leagueAbbreviation" 15 times.( ôÚ¯ÿÿÿÿÿ
+d
+java:S1192Ù"MDefine a constant instead of duplicating this literal "description" 13 times.(™²Çæ
+c
+java:S1192Ø"GDefine a constant instead of duplicating this literal "title" 13 times.(º´‰ùÿÿÿÿ
+a
+java:S1192Ú"JDefine a constant instead of duplicating this literal "leagueId" 13 times.(áçÎí
+c
+java:S1192Ü"LDefine a constant instead of duplicating this literal "isFeatured" 13 times.(°é“•
+b
+java:S1192ß"KDefine a constant instead of duplicating this literal "updatedAt" 13 times.(–ë±Î
+g	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅòœÆ
+l	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜˆÜèüÿÿÿÿ
+l	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄáÉêşÿÿÿÿ
+l	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îşÈóûÿÿÿÿ
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áîôøÿÿÿÿ
+g	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì´¸á
+l	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹œ±şÿÿÿÿ
+p
+java:S11046"ZMake progressDialog a static final constant or non-public and provide accessors if needed.(ŒÎó
+o
+java:S1450("YRemove the "horizontal" field and declare it as a local variable in the relevant methods.(÷§§ñ
+;
+java:S1659&"%Declare "EPL_pvb" on a separate line.(ÆÓÈ
+?
+java:S1659&")Declare "LA_LIGA_pvb" on a separate line.(ÆÓÈ
+;
+java:S1659&"%Declare "mlb_pvb" on a separate line.(ÆÓÈ
+;
+java:S1659&"%Declare "mls_pvb" on a separate line.(ÆÓÈ
+>
+java:S1659&"(Declare "NASCAR_pvb" on a separate line.(ÆÓÈ
+;
+java:S1659&"%Declare "NBA_pvb" on a separate line.(ÆÓÈ
+>
+java:S1659&"(Declare "NCAAMB_pvb" on a separate line.(ÆÓÈ
+;
+java:S1659&"%Declare "NFL_pvb" on a separate line.(ÆÓÈ
+;
+java:S1659&"%Declare "NHL_pvb" on a separate line.(ÆÓÈ
+;
+java:S1659&"%Declare "PGA_pvb" on a separate line.(ÆÓÈ
+>
+java:S1659&"(Declare "NCAAFB_pvb" on a separate line.(ÆÓÈ
+<
+java:S1659&"&Declare "WILD_pvb" on a separate line.(ÆÓÈ
+g	java:S116&"RRename this field "all_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+g	java:S116&"RRename this field "EPL_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+k	java:S116&"VRename this field "LA_LIGA_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+g	java:S116&"RRename this field "mlb_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+g	java:S116&"RRename this field "mls_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+j	java:S116&"URename this field "NASCAR_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+g	java:S116&"RRename this field "NBA_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+j	java:S116&"URename this field "NCAAMB_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+g	java:S116&"RRename this field "NFL_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+g	java:S116&"RRename this field "NHL_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+g	java:S116&"RRename this field "PGA_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+j	java:S116&"URename this field "NCAAFB_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+h	java:S116&"SRename this field "WILD_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓÈ
+s	java:S116*"YRename this field "tvPojoList_epl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÒ¯Ùÿÿÿÿÿ
+s	java:S116+"YRename this field "tvPojoList_nba" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚àÓıÿÿÿÿ
+o	java:S116,"ZRename this field "tvPojoList_liga" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¨š•
+n	java:S116-"YRename this field "tvPojoList_mlb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†Éæ
+n	java:S116."YRename this field "tvPojoList_mls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ìˆ„
+s	java:S116/"YRename this field "tvPojoList_pga" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤óâ¶şÿÿÿÿ
+q	java:S1160"\Rename this field "tvPojoList_nascar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º›
+r	java:S1161"]Rename this field "tvPojoList_naccamb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¢‡ô
+n	java:S1162"YRename this field "tvPojoList_nfl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À–Á•
+m	java:S1163"YRename this field "tvPojoList_nhl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÌßn
+v	java:S1164"\Rename this field "tvPojoList_ncaafb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÿ›Ôÿÿÿÿÿ
+o	java:S1165"ZRename this field "tvPojoList_wild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëù±’
+L
+java:S18746"6Remove this use of "ProgressDialog"; it is deprecated.(ŒÎó
+>
+java:S1185A"(Remove this method to simply inherit it.(ßìê¯
+Q	java:S125<"<This block of commented-out lines of code should be removed.(ØÀœÊ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(°ùÅã
+L
+java:S2696R"6Make the enclosing method "static" or remove this set.(çöĞ×
+L
+java:S1874R"6Remove this use of "ProgressDialog"; it is deprecated.(çöĞ×
+M
+java:S1874T"2Remove this use of "setMessage"; it is deprecated.(ÔòÌøÿÿÿÿ
+n
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(œıÇùıÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(Ç±¢½úÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(½Ââåşÿÿÿÿ
+R	java:S125˜"<This block of commented-out lines of code should be removed.(ğÌ¥ğ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ç±¢½úÿÿÿÿ
+R	java:S125¨"<This block of commented-out lines of code should be removed.(ğÌ¥ğ
+D
+java:S1068(".Remove this unused "horizontal" private field.(÷§§ñ

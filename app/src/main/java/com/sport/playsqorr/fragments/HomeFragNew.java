@@ -6586,7 +6586,7 @@ public class HomeFragNew extends Fragment implements View.OnClickListener {
                 tvCardTitle = convertView.findViewById(R.id.tvCardTitle);
                 player1Img = convertView.findViewById(R.id.player1Img);
                 player2Img = convertView.findViewById(R.id.player2Img);
-                head_img_icon = convertView.findViewById(R.id.head_img_icon);
+                head_img_icon = convertView.findViewById(R.id.ivSportBall);
                 llTotal = convertView.findViewById(R.id.llTotal);
                 tvMatchUpType = convertView.findViewById(R.id.tvMatchUpType);
                 tvStartTime = convertView.findViewById(R.id.tvStartTime);

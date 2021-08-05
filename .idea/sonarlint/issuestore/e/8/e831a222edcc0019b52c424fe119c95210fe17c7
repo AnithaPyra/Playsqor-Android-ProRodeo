@@ -1,0 +1,9 @@
+
+]
+java:S1192"HDefine a constant instead of duplicating this literal " TEXT," 22 times.(®¦ı
+v
+java:S1488Y"[Immediately return this expression instead of assigning it to the temporary variable "res".(¢øïêÿÿÿÿÿ
+v
+java:S1488_"[Immediately return this expression instead of assigning it to the temporary variable "res".(ÏÄ£ãùÿÿÿÿ
+P	java:S125H"<This block of commented-out lines of code should be removed.(»€ÒI
+P	java:S125R"<This block of commented-out lines of code should be removed.(»€ÒI

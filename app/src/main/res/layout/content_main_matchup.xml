@@ -169,7 +169,6 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/pp"
                 android:layout_gravity="center_vertical"
-
                 android:layout_marginStart="8dp"
                 android:layout_marginEnd="8dp"
                 android:layout_marginBottom="50dp" />
@@ -182,7 +181,6 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/playerGridView"
                 android:background="@color/white"
-
                 android:orientation="vertical"
                 android:visibility="visible"
                 app:behavior_hideable="false"

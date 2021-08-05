@@ -1,0 +1,223 @@
+
+^
+java:S1192œ"GDefine a constant instead of duplicating this literal "NCAAMB" 8 times.(Ğº£ç
+`
+java:S1192Ó"IDefine a constant instead of duplicating this literal "My cards" 3 times.(°ç¬Û
+_
+java:S1192"HDefine a constant instead of duplicating this literal "LA-LIGA" 8 times.(¿£šó
+^
+java:S1192ù"GDefine a constant instead of duplicating this literal "NASCAR" 8 times.(äŠÓî
+d
+java:S3824à"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(üÜášüÿÿÿÿ
+Z
+java:S1155Å">Use isEmpty() to check whether the collection is empty or not.(üñÆ§ıÿÿÿÿ
+g	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«®úŒ
+g	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë·á¹
+D
+java:S1604À"(Make this anonymous inner class a lambda(èÜê¿şÿÿÿÿ
+D
+java:S1604Ã"(Make this anonymous inner class a lambda(›Î¦ãúÿÿÿÿ
+N
+java:S2589Ê"7Remove this expression which always evaluates to "true"(Ê¨è
+k
+java:S3008@"URename this field "activity_t" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã…¥Ç
+?
+java:S1659F")Declare "LA_LIGA_pvb" on a separate line.(ÆÎÊ
+;
+java:S1659F"%Declare "mlb_pvb" on a separate line.(ÆÎÊ
+;
+java:S1659F"%Declare "mls_pvb" on a separate line.(ÆÎÊ
+>
+java:S1659F"(Declare "NASCAR_pvb" on a separate line.(ÆÎÊ
+;
+java:S1659F"%Declare "NBA_pvb" on a separate line.(ÆÎÊ
+>
+java:S1659F"(Declare "NCAAMB_pvb" on a separate line.(ÆÎÊ
+;
+java:S1659F"%Declare "NFL_pvb" on a separate line.(ÆÎÊ
+;
+java:S1659F"%Declare "NHL_pvb" on a separate line.(ÆÎÊ
+;
+java:S1659F"%Declare "PGA_pvb" on a separate line.(ÆÎÊ
+=
+java:S1659I"'Declare "CARDS_MAX" on a separate line.(èÀƒ‹
+<
+java:S1659J"&Declare "NFLCount" on a separate line.(íŒş
+<
+java:S1659J"&Declare "NBACount" on a separate line.(íŒş
+<
+java:S1659J"&Declare "NHLCount" on a separate line.(íŒş
+?
+java:S1659J")Declare "NASCARCount" on a separate line.(íŒş
+<
+java:S1659J"&Declare "MLBCount" on a separate line.(íŒş
+<
+java:S1659K"&Declare "EPLCount" on a separate line.(š•İ‡
+?
+java:S1659K")Declare "LALIGACount" on a separate line.(š•İ‡
+<
+java:S1659K"&Declare "MLSCount" on a separate line.(š•İ‡
+?
+java:S1659K")Declare "NCAAMBCount" on a separate line.(š•İ‡
+<
+java:S1659K"&Declare "PGACount" on a separate line.(š•İ‡
+C
+java:S1659["(Declare "leagueName" on a separate line.(À®‡ûÿÿÿÿ
+g	java:S116F"RRename this field "EPL_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÎÊ
+k	java:S116F"VRename this field "LA_LIGA_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÎÊ
+g	java:S116F"RRename this field "mlb_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÎÊ
+g	java:S116F"RRename this field "mls_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÎÊ
+j	java:S116F"URename this field "NASCAR_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÎÊ
+g	java:S116F"RRename this field "NBA_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÎÊ
+j	java:S116F"URename this field "NCAAMB_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÎÊ
+g	java:S116F"RRename this field "NFL_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÎÊ
+g	java:S116F"RRename this field "NHL_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÎÊ
+g	java:S116F"RRename this field "PGA_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÎÊ
+l	java:S116I"WRename this field "MY_CARDS_MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÀƒ‹
+i	java:S116I"TRename this field "CARDS_MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÀƒ‹
+h	java:S116J"SRename this field "NFLCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŒş
+h	java:S116J"SRename this field "NBACount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŒş
+h	java:S116J"SRename this field "NHLCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŒş
+k	java:S116J"VRename this field "NASCARCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŒş
+h	java:S116J"SRename this field "MLBCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŒş
+h	java:S116K"SRename this field "EPLCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š•İ‡
+k	java:S116K"VRename this field "LALIGACount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š•İ‡
+h	java:S116K"SRename this field "MLSCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š•İ‡
+k	java:S116K"VRename this field "NCAAMBCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š•İ‡
+h	java:S116K"SRename this field "PGACount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š•İ‡
+g	java:S116O"RRename this field "EPLData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ª­‰
+o	java:S116P"URename this field "LALIGAData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄøùÅøÿÿÿÿ
+l	java:S116Q"RRename this field "NFLData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ˆ›†ûÿÿÿÿ
+g	java:S116R"RRename this field "NBAData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àù²‰
+l	java:S116S"RRename this field "NHLData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñâçøÿÿÿÿ
+o	java:S116T"URename this field "NASCARData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôô–¶şÿÿÿÿ
+l	java:S116U"RRename this field "MLBData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼§úºøÿÿÿÿ
+l	java:S116V"RRename this field "MLSData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òæò—ıÿÿÿÿ
+j	java:S116W"URename this field "NCAAMBData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¿²Õ
+l	java:S116X"RRename this field "PGAData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢åüøÿÿÿÿ
+>
+java:S1185^"(Remove this method to simply inherit it.(ßìê¯
+n
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(ÿ¼ÇÛøÿÿÿÿ
+U
+java:S1117Û">Rename "leagueName" which hides the field declared at line 91.(Ï“åğ
+X
+java:S1117ß"<Rename "leagueId" which hides the field declared at line 91.(Ãœúïÿÿÿÿÿ
+?
+java:S1185Å"(Remove this method to simply inherit it.(ˆÏ€¶
+D
+java:S1185Ë"(Remove this method to simply inherit it.(Ç™²“øÿÿÿÿ
+n
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¾Ã§Äÿÿÿÿÿ
+W	java:S125İ"<This block of commented-out lines of code should be removed.(ÒÎ£şúÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(ôöÙŸúÿÿÿÿ
+j
+java:S3776•"SRefactor this method to reduce its Cognitive Complexity from 101 to the 15 allowed.(«®úŒ
+R	java:S125£"<This block of commented-out lines of code should be removed.(Ò„ÁÇ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(—¥œñûÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(ü÷…ºÿÿÿÿÿ
+T
+java:S1117Ë">Rename "leagueName" which hides the field declared at line 91.(ºÌ–7
+`
+java:S1871ö"IThis case's code block is the same as the block for the case on line 590.(¿£šó
+`
+java:S1871„"IThis case's code block is the same as the block for the case on line 596.(Ğº£ç
+L
+java:S1874Ï"0Remove this use of "getColor"; it is deprecated.(‹Íñûÿÿÿÿ
+O
+java:S1874Ğ"3Remove this use of "getDrawable"; it is deprecated.(´ ‹şÿÿÿÿ
+J
+java:S1874Ñ"3Remove this use of "getDrawable"; it is deprecated.(ÿ–‚è
+L
+java:S1874Õ"0Remove this use of "getColor"; it is deprecated.(âÜœ¿ıÿÿÿÿ
+J
+java:S1874Ö"3Remove this use of "getDrawable"; it is deprecated.(“•Ôß
+J
+java:S1874×"3Remove this use of "getDrawable"; it is deprecated.(¨ï‘×
+L
+java:S1874Ü"0Remove this use of "getColor"; it is deprecated.(Ììşˆşÿÿÿÿ
+O
+java:S1874İ"3Remove this use of "getDrawable"; it is deprecated.(¡Å€®şÿÿÿÿ
+O
+java:S1874Ş"3Remove this use of "getDrawable"; it is deprecated.( µøôúÿÿÿÿ
+L
+java:S1874ã"0Remove this use of "getColor"; it is deprecated.(í®Ãóùÿÿÿÿ
+J
+java:S1874ä"3Remove this use of "getDrawable"; it is deprecated.(Ê‹áÒ
+O
+java:S1874å"3Remove this use of "getDrawable"; it is deprecated.(¶ÉÚÿÿÿÿÿ
+F
+java:S1874ê"0Remove this use of "getColor"; it is deprecated.(ªÎÿi
+J
+java:S1874ë"3Remove this use of "getDrawable"; it is deprecated.(ŸÀíù
+J
+java:S1874ì"3Remove this use of "getDrawable"; it is deprecated.(¡â¬—
+L
+java:S1874ñ"0Remove this use of "getColor"; it is deprecated.(³Ô¶Âúÿÿÿÿ
+J
+java:S1874ò"3Remove this use of "getDrawable"; it is deprecated.(ñ¡È¢
+J
+java:S1874ó"3Remove this use of "getDrawable"; it is deprecated.(«­ÄÂ
+L
+java:S1874÷"0Remove this use of "getColor"; it is deprecated.(‹Íñûÿÿÿÿ
+O
+java:S1874ø"3Remove this use of "getDrawable"; it is deprecated.(´ ‹şÿÿÿÿ
+J
+java:S1874ù"3Remove this use of "getDrawable"; it is deprecated.(ÿ–‚è
+L
+java:S1874ş"0Remove this use of "getColor"; it is deprecated.(Òâ¬÷üÿÿÿÿ
+O
+java:S1874ÿ"3Remove this use of "getDrawable"; it is deprecated.(øàáÎıÿÿÿÿ
+O
+java:S1874€"3Remove this use of "getDrawable"; it is deprecated.(³øƒùÿÿÿÿ
+L
+java:S1874…"0Remove this use of "getColor"; it is deprecated.(âÜœ¿ıÿÿÿÿ
+J
+java:S1874†"3Remove this use of "getDrawable"; it is deprecated.(“•Ôß
+J
+java:S1874‡"3Remove this use of "getDrawable"; it is deprecated.(¨ï‘×
+F
+java:S1874Œ"0Remove this use of "getColor"; it is deprecated.(“×Îb
+I
+java:S1874"3Remove this use of "getDrawable"; it is deprecated.(Í…ë.
+O
+java:S1874"3Remove this use of "getDrawable"; it is deprecated.(¤ıˆ”ÿÿÿÿÿ
+˜
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾’‘Â
+—
+java:S1186¥"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³É¥
+R	java:S125œ"<This block of commented-out lines of code should be removed.(‡’Ì×
+˜
+java:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾’‘Â
+—
+java:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³É¥
+R	java:S125°"<This block of commented-out lines of code should be removed.(½ª…·
+R	java:S125ê"<This block of commented-out lines of code should be removed.(£¥ôÃ
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(Ó‘Ò–
+X
+java:S1117¹"<Rename "leagueId" which hides the field declared at line 91.(ß•µ©ıÿÿÿÿ
+R	java:S125’"<This block of commented-out lines of code should be removed.(ğÌ¥ğ
+D
+java:S1659¢"(Declare "player2Img" on a separate line.(§«µÛøÿÿÿÿ
+C
+java:S1659¢"'Declare "ivMatchUp" on a separate line.(§«µÛøÿÿÿÿ
+E
+java:S1659¢")Declare "ivOverUnder" on a separate line.(§«µÛøÿÿÿÿ
+;
+java:S1659£"$Declare "llLive" on a separate line.(Ø•Œ–
+G
+java:S1659¤"+Declare "tvMatchUpType" on a separate line.(Ïì›şÿÿÿÿÿ
+E
+java:S1659¤")Declare "tvStartTime" on a separate line.(Ïì›şÿÿÿÿÿ
+@
+java:S1659¤"$Declare "tvPlus" on a separate line.(Ïì›şÿÿÿÿÿ
+C
+java:S1659º"'Declare "tvViewALL" on a separate line.(±ì³¦ÿÿÿÿÿ
+N	java:S106ï"9Replace this use of System.out or System.err by a logger.(ØŞ‘
+T	java:S106ğ"9Replace this use of System.out or System.err by a logger.(·÷ù‘ûÿÿÿÿ
+O	java:S106ñ"9Replace this use of System.out or System.err by a logger.(œü
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ğÖ
+D
+java:S1068@".Remove this unused "activity_t" private field.(Ã…¥Ç
+F
+java:S3398É"/Move this method into "RecyclerViewAdapterNew".(Ğ£Ïƒ

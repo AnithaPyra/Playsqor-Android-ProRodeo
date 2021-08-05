@@ -1,0 +1,57 @@
+
+f
+java:S1192–"JDefine a constant instead of duplicating this literal "OnBoard::" 3 times.(ğğ¶³ıÿÿÿÿ
+l	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¿¥üÿÿÿÿ
+g	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¢…±
+l	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬—‹Ìÿÿÿÿÿ
+>
+java:S1604y"(Make this anonymous inner class a lambda(öŞ«ô
+?
+java:S1604¦"(Make this anonymous inner class a lambda(ÊôÔ¬
+A
+java:S11288"+Remove this unused import 'java.util.Date'.(¸…¼ü
+Q
+java:S1128"6Remove this unused import 'android.widget.DatePicker'.(µö—şÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'android.app.DatePickerDialog'.(„å“ˆùÿÿÿÿ
+H
+java:S1128:"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+J
+java:S1128"5Remove this unused import 'android.app.Notification'.(¸Ó†9
+W
+java:S1128"ARemove this unused import 'androidx.core.app.NotificationCompat'.(œéÔã
+M
+java:S11285"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+b
+java:S1128."GRemove this unused import 'com.sport.playsqorr.utilities.UtilitiesAna'.(§ô³üÿÿÿÿ
+n
+java:S1450C"XRemove the "fragments" field and declare it as a local variable in the relevant methods.(¹«…
+
+java:S1186à"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œƒƒ©ùÿÿÿÿ
+h	java:S116D"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨úæ¿úÿÿÿÿ
+K
+java:S1874V"0Remove this use of "getColor"; it is deprecated.(Ô°“Æüÿÿÿÿ
+X
+java:S1874["=Remove this use of "setSystemUiVisibility"; it is deprecated.(Ëı»çÿÿÿÿÿ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(‰šƒğ
+Q	java:S125i"<This block of commented-out lines of code should be removed.(›‡æ‘
+?	java:S108”")Either remove or fill this block of code.(å¥‡
+R	java:S125´"<This block of commented-out lines of code should be removed.(¾Ñ¾©
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(à¥•ùÿÿÿÿ
+X
+java:S1854ù"<Remove this useless assignment to local variable "NEWTOKEN".(™óÚÑûÿÿÿÿ
+T	java:S106÷"9Replace this use of System.out or System.err by a logger.(âš´€ÿÿÿÿÿ
+\
+java:S2147™"ECombine this catch with the one at line 279, which has the same body.(”ı¾
+R
+java:S1874"6Remove this use of "GET_SIGNATURES"; it is deprecated.(‰•ùÃøÿÿÿÿ
+I
+java:S1874"2Remove this use of "signatures"; it is deprecated.(Á¡Å¶
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(¸¬Øäıÿÿÿÿ
+Q	java:S125¨"<This block of commented-out lines of code should be removed.(Í»à[
+=	java:S131Ç""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(•ß–êøÿÿÿÿ
+Y
+java:S1117Ô"=Rename "letsplay" which hides the field declared at line 286.(…ÂÏüÿÿÿÿ
+I
+java:S1481ó"-Remove this unused "NEWTOKEN" local variable.(¬—‹Ìÿÿÿÿÿ

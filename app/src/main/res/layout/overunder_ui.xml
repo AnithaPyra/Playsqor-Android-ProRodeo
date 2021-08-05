@@ -55,14 +55,15 @@
                             android:layout_width="@dimen/size_ten"
                             android:layout_height="@dimen/size_ten"
                             android:src="@drawable/ic_arrow_up" />
-
+<!--                            android:fontFamily="@font/exo_bolditalic"
+-->
                         <TextView
                             android:id="@+id/overview_txt"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginTop="0dp"
-                            android:fontFamily="@font/exo_bolditalic"
+                            android:fontFamily="@font/karla_bold"
                             android:text="Over"
                             android:textColor="@color/darkest_gray"
                             android:textSize="10sp" />
@@ -101,14 +102,15 @@
                         android:layout_gravity="center"
                         android:gravity="center"
                         android:orientation="vertical">
-
+<!--                            android:fontFamily="@font/exo_bolditalic"
+-->
                         <TextView
                             android:id="@+id/underView_txt"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginTop="0dp"
-                            android:fontFamily="@font/exo_bolditalic"
+                            android:fontFamily="@font/karla_bold"
                             android:gravity="center"
                             android:text="Under"
                             android:textColor="@color/darkest_gray"

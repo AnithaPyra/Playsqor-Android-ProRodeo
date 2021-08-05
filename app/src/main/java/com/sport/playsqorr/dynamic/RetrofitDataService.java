@@ -11,7 +11,8 @@ public interface RetrofitDataService {
 //    @GET("sqldev/api/card/46/matchups")
 //    Call<DoubleMatchupData> getdoublematchupdata();
 
-    @GET("sqlstage/api/sports")
+  //  @GET("sqlstage/api/sports")
+    @GET("demo/api/sports")
     Call<ArrayList<MenuData>> getmenu();
 
     /**

@@ -24,6 +24,34 @@ public class MyCardsPojo implements Serializable {
     private String settlementDate;
     private String winAmount;
     private String isPurchased;
+    private int sport_id;
+    private String sport_name;
+
+    public String getSport_name() {
+        return sport_name;
+    }
+
+    public void setSport_name(String sport_name) {
+        this.sport_name = sport_name;
+    }
+
+    private String cardTime;
+
+    public String getCardTime() {
+        return cardTime;
+    }
+
+    public void setCardTime(String cardTime) {
+        this.cardTime = cardTime;
+    }
+
+    public int getSportId() {
+        return sport_id;
+    }
+
+    public void setSportId(int sport_id) {
+        this.sport_id = sport_id;
+    }
 
     private String leagueSubTitle;
 

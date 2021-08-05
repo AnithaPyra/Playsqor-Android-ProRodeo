@@ -138,6 +138,9 @@
     <color name="p8">#0000FF</color>
     <color name="p9">#006AFF</color>
 
+    <color name="ball_default_color">#121212</color>
+    <color name="ball_selected_color">#E4E4E4</color>
+
 
 
 </resources>

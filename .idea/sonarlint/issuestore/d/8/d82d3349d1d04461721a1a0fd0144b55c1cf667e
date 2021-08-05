@@ -1,0 +1,277 @@
+
+^
+java:S3973š"GUse indentation to denote the code conditionally executed by this "if".(‹ÜÎ‘
+^
+java:S1192²"GDefine a constant instead of duplicating this literal "Paypal" 3 times.(›åÄÛ
+s
+java:S1192À"WDefine a constant instead of duplicating this literal "onError errorDetail : " 4 times.(£ëÄçşÿÿÿÿ
+j
+java:S1192—"SDefine a constant instead of duplicating this literal "Add Funds Complete" 4 times.(ï†î¿
+m
+java:S1192‘"QDefine a constant instead of duplicating this literal "application/json" 4 times.(Ü–Ñ‚úÿÿÿÿ
+q
+java:S1192¿"UDefine a constant instead of duplicating this literal "onError errorBody : " 4 times.(€ñ´Ïùÿÿÿÿ
+f
+java:S1192ù"JDefine a constant instead of duplicating this literal "ADD FUNDS" 5 times.(à”Á…ıÿÿÿÿ
+d
+java:S1192²"NDefine a constant instead of duplicating this literal "Authorization" 7 times.(‚Õ
+i
+java:S1192Á"MDefine a constant instead of duplicating this literal "sessionToken" 6 times.(Ÿ»Óœùÿÿÿÿ
+g
+java:S1192Î"QDefine a constant instead of duplicating this literal "isValidPromoCode" 4 times.(¾Óñ
+u
+java:S1192Ç"YDefine a constant instead of duplicating this literal "onError errorDetail  0: " 4 times.(Êª®®şÿÿÿÿ
+e
+java:S1192·"IDefine a constant instead of duplicating this literal "fromPage" 4 times.(—‘ğúÿÿÿÿ
+c
+java:S1192ƒ"LDefine a constant instead of duplicating this literal "PayPal Test" 7 times.(²Î·‘
+‘
+java:S1192…"zDefine a constant instead of duplicating this literal "Please enter minimum amount , it should be at least of $1" 3 times.(‡Ãİ¢
+^
+java:S1192²"HDefine a constant instead of duplicating this literal "bearer " 7 times.(‚Õ
+i
+java:S1192‘"MDefine a constant instead of duplicating this literal "Content-Type" 4 times.(Ü–Ñ‚úÿÿÿÿ
+^
+java:S1192£"GDefine a constant instead of duplicating this literal "amount" 6 times.(­Ù’Í
+q
+java:S1192¾"UDefine a constant instead of duplicating this literal "onError errorCode : " 4 times.(ìˆºşÿÿÿÿ
+I
+java:S1199—"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+K
+java:S1066œ"/Merge this if statement with the enclosing one.(âôìüÿÿÿÿ
+F
+java:S1066é
+"/Merge this if statement with the enclosing one.(ßê¨
+F
+java:S1066İ"/Merge this if statement with the enclosing one.(åß’«
+F
+java:S1066ó"/Merge this if statement with the enclosing one.(åß’«
+a
+java:S1155Ö">Use isEmpty() to check whether the collection is empty or not.(¨·µ¦ÿÿÿÿÿ8®®•²¯/
+Q
+java:S1141ÿ
+"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Í"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òï‘öıÿÿÿÿ
+g	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÁÓ•
+l	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ì¥œúÿÿÿÿ
+l	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‘Æôúÿÿÿÿ
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãúô´
+g	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íøÑ
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šˆä‡şÿÿÿÿ
+g	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÆÖÀ
+g	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ıé†
+l	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘©ã§ıÿÿÿÿ
+g	java:S117®	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ö¨æ
+g	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üğÔ˜
+g	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×äÖã
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òï‘öıÿÿÿÿ
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÁÓ•
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ì¥œúÿÿÿÿ
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ»¬÷
+?
+java:S1604÷"(Make this anonymous inner class a lambda(ü€èÈ
+?
+java:S1604¨"(Make this anonymous inner class a lambda(¸ôóç
+?
+java:S1604ê"(Make this anonymous inner class a lambda(ü€èÈ
+D
+java:S1604÷	"(Make this anonymous inner class a lambda(÷£ª·ûÿÿÿÿ
+D
+java:S1604œ
+"(Make this anonymous inner class a lambda(©¶°âÿÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(ü€èÈ
+?
+java:S1604›"(Make this anonymous inner class a lambda(˜£™¼
+Q	java:S1254"<This block of commented-out lines of code should be removed.(ã¢†¹
+P	java:S125T"<This block of commented-out lines of code should be removed.(Ôç
+m
+java:S1450n"WRemove the "fromPage" field and declare it as a local variable in the relevant methods.(²ª«“
+t
+java:S1450f"^Remove the "rl_add_new_card" field and declare it as a local variable in the relevant methods.(‚ûä›
+o
+java:S1450l"TRemove the "tvFaq" field and declare it as a local variable in the relevant methods.(çö¿Âùÿÿÿÿ
+˜
+java:S1186§	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ
+
+java:S1186¼	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ
+>
+java:S1659l"#Declare "tvFaq" on a separate line.(çö¿Âùÿÿÿÿ
+A
+java:S1659m"&Declare "llPaypal" on a separate line.(ùË–¶üÿÿÿÿ
+<
+java:S1659n"&Declare "fromPage" on a separate line.(²ª«“
+E
+java:S1659s"*Declare "AMOUNT_TOKEN" on a separate line.(¯Úèúÿÿÿÿ
+D
+java:S1659s")Declare "AMOUNT_CASH" on a separate line.(¯Úèúÿÿÿÿ
+B
+java:S1659s"'Declare "PROMO_BAL" on a separate line.(¯Úèúÿÿÿÿ
+A
+java:S1659s"&Declare "CASH_BAL" on a separate line.(¯Úèúÿÿÿÿ
+E
+java:S1659s"*Declare "sessionToken" on a separate line.(¯Úèúÿÿÿÿ
+A
+java:S1659s"&Declare "DATA_DOB" on a separate line.(¯Úèúÿÿÿÿ
+C
+java:S1659s"(Declare "DATA_STATE" on a separate line.(¯Úèúÿÿÿÿ
+A
+java:S1659s"&Declare "NEWTOKEN" on a separate line.(¯Úèúÿÿÿÿ
+D
+java:S1659v")Declare "after_promo" on a separate line.(’”úûÿÿÿÿ
+B
+java:S1659z"'Declare "EDIT_CARD" on a separate line.(½œ˜†şÿÿÿÿ
+C
+java:S1659z"(Declare "PHONE_LOCK" on a separate line.(½œ˜†şÿÿÿÿ
+D
+java:S1659€"(Declare "legendName" on a separate line.(‡ßÛàıÿÿÿÿ
+E
+java:S1659€")Declare "matchupDate" on a separate line.(‡ßÛàıÿÿÿÿ
+o	java:S116f"ZRename this field "rl_add_new_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ûä›
+i	java:S116s"ORename this field "ROLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Úèúÿÿÿÿ
+q	java:S116s"WRename this field "AMOUNT_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Úèúÿÿÿÿ
+p	java:S116s"VRename this field "AMOUNT_CASH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Úèúÿÿÿÿ
+n	java:S116s"TRename this field "PROMO_BAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Úèúÿÿÿÿ
+m	java:S116s"SRename this field "CASH_BAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Úèúÿÿÿÿ
+m	java:S116s"SRename this field "DATA_DOB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Úèúÿÿÿÿ
+o	java:S116s"URename this field "DATA_STATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Úèúÿÿÿÿ
+m	java:S116s"SRename this field "NEWTOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Úèúÿÿÿÿ
+m	java:S116u"SRename this field "ppcode_p" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïã”‹ıÿÿÿÿ
+p	java:S116v"VRename this field "click_promo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’”úûÿÿÿÿ
+p	java:S116v"VRename this field "after_promo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’”úûÿÿÿÿ
+i	java:S116w"TRename this field "promo_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ïúà
+h	java:S116x"TRename this field "close_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞéŒ
+q	java:S116|"WRename this field "jsonObj_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı´‹Ñıÿÿÿÿ
+p	java:S116’"URename this field "promo_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßíÅùùÿÿÿÿ
+g	java:S116£"QRename this field "pay_tv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÜßí
+p	java:S116ì"ZRename this field "toolbar_title_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ò˜ş
+P	java:S125~"<This block of commented-out lines of code should be removed.(±àş
+P	java:S125~"<This block of commented-out lines of code should be removed.(±àş
+P	java:S125~"<This block of commented-out lines of code should be removed.(±àş
+M
+java:S1874ƒ"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+W	java:S125…"<This block of commented-out lines of code should be removed.(ïÿ™¢ıÿÿÿÿ
+R	java:S125‡"<This block of commented-out lines of code should be removed.(úçÑü
+W	java:S125Š"<This block of commented-out lines of code should be removed.(À™¢Àùÿÿÿÿ
+M
+java:S1874¿"6Remove this use of "ProgressDialog"; it is deprecated.(ó™Ú¹
+N
+java:S1874Á"2Remove this use of "setMessage"; it is deprecated.(ÔòÌøÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(½‘Ñ³
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(âš´€ÿÿÿÿÿ
+n
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(şñÊëÿÿÿÿÿ
+˜
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ
+]
+java:S1117¯"ARename "customAmount" which hides the field declared at line 112.(ö ¦Àûÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(àŒ‰™ıÿÿÿÿ
+R
+java:S1117İ";Rename "cursor" which hides the field declared at line 114.(¿µôô
+O	java:S106à"9Replace this use of System.out or System.err by a logger.(Øæ²ı
+W	java:S125„"<This block of commented-out lines of code should be removed.(ùæ¯Áüÿÿÿÿ
+R	java:S125Š"<This block of commented-out lines of code should be removed.(´ŠæÜ
+W	java:S125›"<This block of commented-out lines of code should be removed.(õ¹Ã¶ùÿÿÿÿ
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(×ÓÁ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(ñô¸ùÿÿÿÿ
+R	java:S125Í"<This block of commented-out lines of code should be removed.(Àù«Â
+o
+java:S3776ë"SRefactor this method to reduce its Cognitive Complexity from 157 to the 15 allowed.(Ğ¸™áúÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(ì¸İäûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ñ»å…ùÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(şÊ£Úøÿÿÿÿ
+R	java:S125¬"<This block of commented-out lines of code should be removed.(¡Õ±š
+R	java:S125Í"<This block of commented-out lines of code should be removed.(ª®…–
+>
+java:S1125Ï"'Remove the unnecessary boolean literal.(î÷ìº
+W	java:S125°"<This block of commented-out lines of code should be removed.(ñÓíšşÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(­œõ¡
+W	java:S125Á"<This block of commented-out lines of code should be removed.(°òŒòùÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(ØîÚ‚şÿÿÿÿ
+i
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ù®ËË
+8
+java:S1116‡"Remove this empty statement.(Åñ­õşÿÿÿÿ
+R	java:S125˜"<This block of commented-out lines of code should be removed.(ª®…–
+>
+java:S1125š"'Remove the unnecessary boolean literal.(î÷ìº
+W	java:S125¨"<This block of commented-out lines of code should be removed.(ñÓíšşÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(ñÓíšşÿÿÿÿ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(‡ïŒşùÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(ØîÚ‚şÿÿÿÿ
+l
+java:S3252"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(‘“Å§üÿÿÿÿ
+l
+java:S3252"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(‘“Å§üÿÿÿÿ
+n
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ü‘Æôúÿÿÿÿ
+Q	java:S125Ä"<This block of commented-out lines of code should be removed.(”ì»@
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(§¾İ‚
+O
+java:S1874ı"3Remove this use of "getDrawable"; it is deprecated.(ö¿Ù­şÿÿÿÿ
+O
+java:S1874€	"3Remove this use of "getDrawable"; it is deprecated.(¤ğÒ”ûÿÿÿÿ
+I
+java:S1874„	"3Remove this use of "getDrawable"; it is deprecated.(óÛˆA
+J
+java:S1874‡	"3Remove this use of "getDrawable"; it is deprecated.(ãüéî
+J
+java:S1874‹	"3Remove this use of "getDrawable"; it is deprecated.(ÿÈ¨
+O
+java:S1874	"3Remove this use of "getDrawable"; it is deprecated.(êÏÈñøÿÿÿÿ
+O
+java:S1874“	"3Remove this use of "getDrawable"; it is deprecated.(ö¿Ù­şÿÿÿÿ
+I
+java:S1874—	"3Remove this use of "getDrawable"; it is deprecated.(¡ï˜=
+O
+java:S1874›	"3Remove this use of "getDrawable"; it is deprecated.(¤ğÒ”ûÿÿÿÿ
+O
+java:S1874Ÿ	"3Remove this use of "getDrawable"; it is deprecated.(ºã¦÷üÿÿÿÿ
+W	java:S125µ	"<This block of commented-out lines of code should be removed.(¨áÒ·ıÿÿÿÿ
+n
+java:S3776Ø	"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(è¦µüÿÿÿÿ
+R	java:S125­
+"<This block of commented-out lines of code should be removed.(ÓØÍÌ
+?
+java:S1659Ò
+"(Declare "ivOverFlow" on a separate line.(–¼º‹
+B
+java:S1659Ó
+"&Declare "tvExpiry" on a separate line.(ä€¼®şÿÿÿÿ
+n
+java:S3776ä
+"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(±˜¾ãûÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(è·Ëİ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ŸˆÇ‘ıÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(èËéşüÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(ßğÄûÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(Îèôèøÿÿÿÿ
+R	java:S125ó"<This block of commented-out lines of code should be removed.(³¶€
+d	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¥ò
+i	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä±áÑşÿÿÿÿ
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ä±áÑşÿÿÿÿ
+d	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ì²„
+g
+java:S1874"KRemove this use of "createConfirmDeviceCredentialIntent"; it is deprecated.(¥†ñÚıÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(§¾İ‚
+W	java:S125¤"<This block of commented-out lines of code should be removed.(‡ÛÛ³øÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(İ±­¥şÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(ØîÚ‚şÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(ñÓíšşÿÿÿÿ
+E
+java:S1068k"/Remove this unused "cardDetails" private field.(Şùš
+B
+java:S1068n",Remove this unused "fromPage" private field.(²ª«“
+L
+java:S1068‹"5Remove this unused "CONFIG_CLIENT_ID1" private field.(îï·ş
+J
+java:S1068’".Remove this unused "promo_code" private field.(ßíÅùùÿÿÿÿ
+A
+java:S1068Å	"+Remove this unused "context" private field.(êİç
+Q
+java:S1144“"5Remove this unused private "fingerprintAlert" method.(Ùşßòşÿÿÿÿ
+O
+java:S1144˜"3Remove this unused private "footBallDialog" method.(¶ ¥Íüÿÿÿÿ

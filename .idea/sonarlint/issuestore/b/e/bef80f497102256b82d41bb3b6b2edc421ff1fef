@@ -1,0 +1,11 @@
+
+g
+java:S1301…"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+J
+java:S10668"/Merge this if statement with the enclosing one.(²¥Ó«üÿÿÿÿ
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âã¹
+V	java:S125b"<This block of commented-out lines of code should be removed.(İ‚êÛşÿÿÿÿ
+=	java:S131…""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(Ú˜È™úÿÿÿÿ
+f
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(µÛÎ°üÿÿÿÿ

@@ -1,0 +1,19 @@
+
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‹·ùÿÿÿÿ8¥¸÷×°/
+f	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™§ú»
+e	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñë‹
+u
+java:S1450"ZRemove the "isPurchased" field and declare it as a local variable in the relevant methods.(Î¡©üÿÿÿÿ
+m	java:S116"SRename this field "sport_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¨–Ëøÿÿÿÿ
+q	java:S116"URename this field "sport_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÛÖ8—Õö×°/
+n	java:S116H"TRename this field "cout_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÆˆŸıÿÿÿÿ
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç­ç8¶¸÷×°/
+o	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‹·ùÿÿÿÿ8¸¸÷×°/
+c	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ó½“
+b	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñë‹
+O
+java:S3400u"9Remove this method and declare a constant for this value.(éÚ†¨
+M
+java:S1172x"2Remove this unused method parameter "isPurchased".(±˜¨Öşÿÿÿÿ
+J
+java:S1068"/Remove this unused "isPurchased" private field.(Î¡©üÿÿÿÿ

@@ -1,0 +1,37 @@
+
+k	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²§ÑÅıÿÿÿÿ
+C
+java:S1604:"(Make this anonymous inner class a lambda(Æÿã¾ùÿÿÿÿ
+C
+java:S1604F"(Make this anonymous inner class a lambda(´´ªäÿÿÿÿÿ
+>
+java:S1604["(Make this anonymous inner class a lambda(¸‡Î
+>
+java:S1604c"(Make this anonymous inner class a lambda(¯è²©
+@
+java:S1659$"%Declare "coderef" on a separate line.(ÔÌÿÿÿÿÿ
+t	java:S116$"ZRename this field "toolbar_title_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÌÿÿÿÿÿ
+L
+java:S1874("6Remove this use of "ProgressDialog"; it is deprecated.(¦ó‹˜
+f
+java:S1874K"KRemove this use of "FLAG_ACTIVITY_CLEAR_WHEN_TASK_RESET"; it is deprecated.(ÂµÇøÿÿÿÿ
+P
+java:S2479O":Remove the non-escaped \u00A0 character from this literal.(¬µ‚ä
+L
+java:S1874k"6Remove this use of "ProgressDialog"; it is deprecated.(ÚÍ‰ß
+H
+java:S1874p"2Remove this use of "setMessage"; it is deprecated.(Ïı…¬
+N
+java:S1874q"8Remove this use of "setProgressStyle"; it is deprecated.(Œ÷ßÎ
+L
+java:S1874q"6Remove this use of "ProgressDialog"; it is deprecated.(Œ÷ßÎ
+K
+java:S1874q"5Remove this use of "STYLE_SPINNER"; it is deprecated.(Œ÷ßÎ
+P	java:S125z"<This block of commented-out lines of code should be removed.(ş«ŒS
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+m
+java:S1858"Q"searchResponse" is already a string, there's no need to call "toString()" on it.(¹Õ®µøÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(—†¿ğüÿÿÿÿ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(Ÿşÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(øò›Â

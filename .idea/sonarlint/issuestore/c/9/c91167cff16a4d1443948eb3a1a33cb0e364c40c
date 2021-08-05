@@ -1,0 +1,98 @@
+
+E
+java:S1066D"/Merge this if statement with the enclosing one.(ÿî„§
+g	java:S101*"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ĞùØùÿÿÿÿ
+f	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âã¹
+l	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òï‘öıÿÿÿÿ
+g	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÁÓ•
+l	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ì¥œúÿÿÿÿ
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òï‘öıÿÿÿÿ
+g	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÁÓ•
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ì¥œúÿÿÿÿ
+?
+java:S1604ñ"(Make this anonymous inner class a lambda(ü€èÈ
+?
+java:S1604¯"(Make this anonymous inner class a lambda(ü€èÈ
+t
+java:S1450."YRemove the "amountView" field and declare it as a local variable in the relevant methods.(«”ñÚùÿÿÿÿ
+˜
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ
+
+java:S1186ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ
+C
+java:S1659/"(Declare "etFullName" on a separate line.(é“¡ãıÿÿÿÿ
+A
+java:S1659/"&Declare "etStreet" on a separate line.(é“¡ãıÿÿÿÿ
+?
+java:S1659/"$Declare "etCity" on a separate line.(é“¡ãıÿÿÿÿ
+A
+java:S1659/"&Declare "etreCity" on a separate line.(é“¡ãıÿÿÿÿ
+B
+java:S16593"'Declare "totalCash" on a separate line.(¥¤™¤ûÿÿÿÿ
+A
+java:S16593"&Declare "promoBal" on a separate line.(¥¤™¤ûÿÿÿÿ
+E
+java:S16593"*Declare "sessionToken" on a separate line.(¥¤™¤ûÿÿÿÿ
+A
+java:S16593"&Declare "NEWTOKEN" on a separate line.(¥¤™¤ûÿÿÿÿ
+m	java:S1163"SRename this field "NEWTOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¤™¤ûÿÿÿÿ
+i	java:S1166"TRename this field "check_ach" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÀÿì
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(âš´€ÿÿÿÿÿ
+Q	java:S125{"<This block of commented-out lines of code should be removed.(ë­ˆ†
+W	java:S125‰"<This block of commented-out lines of code should be removed.(“©¹‰şÿÿÿÿ
+8
+java:S1659¹"!Declare "len" on a separate line.(Ø°š•
+8
+java:S1659¹"!Declare "sum" on a separate line.(Ø°š•
+8
+java:S1659¹"!Declare "mod" on a separate line.(Ø°š•
+X
+java:S1126É"AReplace this if-then-else statement by a single return statement.(øÁî€
+n
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ğ¸™áúÿÿÿÿ
+Q	java:S125Û"<This block of commented-out lines of code should be removed.(à›©
+8
+java:S1659ş"!Declare "len" on a separate line.(Ø°š•
+8
+java:S1659ş"!Declare "sum" on a separate line.(Ø°š•
+8
+java:S1659ş"!Declare "mod" on a separate line.(Ø°š•
+R	java:S125 "<This block of commented-out lines of code should be removed.(©ª´š
+W	java:S125¥"<This block of commented-out lines of code should be removed.(¿ÎÿÁúÿÿÿÿ
+S
+java:S1854Ü"=Remove this useless assignment to local variable "zipLength".(Ãµèk
+Z
+java:S1854Û">Remove this useless assignment to local variable "cityLength".(ã´ç¬şÿÿÿÿ
+\
+java:S1854Ú"@Remove this useless assignment to local variable "streetLength".(ƒ–¢øÿÿÿÿ
+Z
+java:S1854Ù">Remove this useless assignment to local variable "nameLength".(æïËçúÿÿÿÿ
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(ŞÃÓ³üÿÿÿÿ
+V
+java:S1854ö"?Remove this useless assignment to local variable "availAmount".(­¿ï
+R	java:S125÷"<This block of commented-out lines of code should be removed.(¨êší
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áã¡‹üÿÿÿÿ
+P
+java:S1172"4Remove this unused method parameter "requestAmount".(áã¡‹üÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(Õ“§÷ûÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(ùç¾»şÿÿÿÿ
+?	java:S108Ë")Either remove or fill this block of code.(”ı¾
+W	java:S125á"<This block of commented-out lines of code should be removed.(ØîÚ‚şÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(‘ûŒşÿÿÿÿ
+W	java:S125ü"<This block of commented-out lines of code should be removed.( ±äöûÿÿÿÿ
+R	java:S125„"<This block of commented-out lines of code should be removed.(“¯’°
+Q	java:S125‡"<This block of commented-out lines of code should be removed.(íÀâ`
+R	java:S125‰"<This block of commented-out lines of code should be removed.(¼¬íœ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ØîÚ‚şÿÿÿÿ
+K
+java:S1481Ù"/Remove this unused "nameLength" local variable.(æïËçúÿÿÿÿ
+M
+java:S1481Ú"1Remove this unused "streetLength" local variable.(ƒ–¢øÿÿÿÿ
+K
+java:S1481Û"/Remove this unused "cityLength" local variable.(ã´ç¬şÿÿÿÿ
+D
+java:S1481Ü".Remove this unused "zipLength" local variable.(Ãµèk
+G
+java:S1481ö"0Remove this unused "availAmount" local variable.(­¿ï
+P
+java:S1068.".Remove this unused "amountView" private field.(«”ñÚùÿÿÿÿ8Š²•²¯/

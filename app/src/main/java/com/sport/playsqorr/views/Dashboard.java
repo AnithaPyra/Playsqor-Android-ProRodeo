@@ -15,12 +15,13 @@ import com.androidnetworking.AndroidNetworking;
 import com.androidnetworking.common.Priority;
 import com.androidnetworking.error.ANError;
 import com.androidnetworking.interfaces.JSONObjectRequestListener;
+import com.app.applibrary.utilities.preference.AppSettings;
 import com.google.gson.JsonElement;
 import com.mixpanel.android.mpmetrics.MixpanelAPI;
 import com.sport.playsqorr.Api.API_class;
 import com.sport.playsqorr.Api.Retrofit_funtion_class;
 import com.sport.playsqorr.SensorService;
-import com.sport.playsqorr.fragments.HomeFragment;
+import com.sport.playsqorr.home.ui.fragment.HomeFragment;
 import com.sport.playsqorr.utilities.APIs;
 import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.NetworkPolicy;
@@ -88,6 +89,8 @@ public class Dashboard extends AppCompatActivity implements View.OnClickListener
 //        public static String ppp="2";
 
     String tamount;
+
+  //  AppSettings appSettings;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -109,6 +112,7 @@ public class Dashboard extends AppCompatActivity implements View.OnClickListener
 
         mMixpanel = MixpanelAPI.getInstance(Dashboard.this, getString(R.string.test_MIX_PANEL_TOKEN));
 
+      //  appSettings = new AppSettings(this);
         initializeComponents();
         setHome();
 
@@ -445,6 +449,7 @@ public class Dashboard extends AppCompatActivity implements View.OnClickListener
                 ACCEMAIL = cursor.getString(cursor.getColumnIndex(DB_Constants.USER_EMAIL));
                 ACCREF = cursor.getString(cursor.getColumnIndex(DB_Constants.USER_REF));
                 ACCNUMBER = cursor.getString(cursor.getColumnIndex(DB_Constants.USER_NUMBER));
+               // appSettings.setAccessToken(DB_Constants.USER_TOKEN);
 
                 Log.e("SESSION_TOKEN::", SESSIONTOKEN);
             } else {
@@ -561,18 +566,19 @@ public class Dashboard extends AppCompatActivity implements View.OnClickListener
     }
 
     private void setHome() {
-//        someFragment = new HomeFrag();
-//        FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();//getFragmentManager().beginTransaction();
-//        transaction.replace(R.id.frame_layout, someFragment); // give your fragment container id in first parameter
-//        transaction.addToBackStack(null);  // if written, this transaction will be added to backstack
-//        transaction.commit();
-
+       /* someFragment = new HomeFrag();
+        FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();//getFragmentManager().beginTransaction();
+        transaction.replace(R.id.frame_layout, someFragment); // give your fragment container id in first parameter
+        transaction.addToBackStack(null);  // if written, this transaction will be added to backstack
+        transaction.commit();
+*/
 
         someFragment = new HomeFragment();
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();//getFragmentManager().beginTransaction();
         transaction.replace(R.id.frame_layout, someFragment); // give your fragment container id in first parameter
         transaction.addToBackStack(null);  // if written, this transaction will be added to backstack
         transaction.commit();
+
 
 
     }

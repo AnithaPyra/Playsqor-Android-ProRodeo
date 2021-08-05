@@ -1,0 +1,86 @@
+
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òï‘öýÿÿÿÿ
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÁÓ•
+l	java:S117Ž"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ì¥œúÿÿÿÿ
+l	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òï‘öýÿÿÿÿ
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÁÓ•
+l	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ì¥œúÿÿÿÿ
+l	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òï‘öýÿÿÿÿ
+g	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÁÓ•
+l	java:S117Þ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ì¥œúÿÿÿÿ
+l	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òï‘öýÿÿÿÿ
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÁÓ•
+l	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ì¥œúÿÿÿÿ
+g	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ»¬÷
+>
+java:S1604h"(Make this anonymous inner class a lambda(¸ôóç
+?
+java:S1604‘"(Make this anonymous inner class a lambda(ü€èÈ
+?
+java:S1604º"(Make this anonymous inner class a lambda(ü€èÈ
+?
+java:S1604à"(Make this anonymous inner class a lambda(ü€èÈ
+?
+java:S1604Ž"(Make this anonymous inner class a lambda(ü€èÈ
+?
+java:S1604š"(Make this anonymous inner class a lambda(˜£™¼
+H
+java:S1128'"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ
+t
+java:S30082"^Rename this field "PERMISSIONS_STORAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ìä¯
+r
+java:S3252C"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(£Úµ¥ÿÿÿÿÿ
+W
+java:S1874P"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(¿•àÄþÿÿÿÿ
+W
+java:S1874P"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(¿•àÄþÿÿÿÿ
+N
+java:S1874P"3Remove this use of "isConnected"; it is deprecated.(¿•àÄþÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(ØîÚ‚þÿÿÿÿ
+k
+java:S3252^"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(‘“Å§üÿÿÿÿ
+k
+java:S3252^"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(‘“Å§üÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ØîÚ‚þÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(ØîÚ‚þÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(ØîÚ‚þÿÿÿÿ
+W	java:S125þ"<This block of commented-out lines of code should be removed.(ØîÚ‚þÿÿÿÿ
+q
+java:S3923·"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÁÉÂ6
+W	java:S125Â"<This block of commented-out lines of code should be removed.(î¢Õ½üÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(”ËÐüùÿÿÿÿ
+F
+java:S1874ö"/Remove this use of "getView"; it is deprecated.(´™Òû
+W	java:S125ø"<This block of commented-out lines of code should be removed.(üûÛÖþÿÿÿÿ
+R	java:S125„"<This block of commented-out lines of code should be removed.(ãÀ•†
+R	java:S125–"<This block of commented-out lines of code should be removed.(î®ù¼
+Q	java:S125¤"<This block of commented-out lines of code should be removed.(ÉÛ£J
+w
+java:S3923©"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¹¿Áãúÿÿÿÿ
+P
+java:S1874¼"9Remove this use of "getDefaultDisplay"; it is deprecated.(ûÚŒü
+I
+java:S1874¼"2Remove this use of "getMetrics"; it is deprecated.(ûÚŒü
+T
+java:S1854Ì"8Remove this useless assignment to local variable "ageS".(¦©òúÿÿÿÿ
+=
+java:S2129Ë"!Remove this "Integer" constructor(¼ê‰Àÿÿÿÿÿ
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(½’à
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(‰ÁÅÏýÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¨ªüóùÿÿÿÿ
+[
+java:S1854¢"DRemove this useless assignment to local variable "simpleDateFormat".(îí„ê
+R	java:S125£"<This block of commented-out lines of code should be removed.(¦™Ñ­
+W	java:S125¥"<This block of commented-out lines of code should be removed.(à†š¬ùÿÿÿÿ
+S
+java:S1854Ã"=Remove this useless assignment to local variable "different".(õè A
+W	java:S125Å"<This block of commented-out lines of code should be removed.(ÑƒâÅøÿÿÿÿ
+Y	java:S125ö"<This block of commented-out lines of code should be removed.(Ý÷•Î8Óµ˜º°/
+U	java:S106´"9Replace this use of System.out or System.err by a logger.(ØÞ‘8”£²ˆ±/
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(·÷ù‘ûÿÿÿÿ8”£²ˆ±/
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(œü8”£²ˆ±/
+V	java:S106È"9Replace this use of System.out or System.err by a logger.(ðŽÖ8”£²ˆ±/
+E
+java:S1481Ì")Remove this unused "ageS" local variable.(¦©òúÿÿÿÿ
+L
+java:S1481¢"5Remove this unused "simpleDateFormat" local variable.(îí„ê

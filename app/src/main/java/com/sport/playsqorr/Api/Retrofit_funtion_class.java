@@ -1,5 +1,6 @@
 package com.sport.playsqorr.Api;
 
+import com.androidnetworking.interceptors.HttpLoggingInterceptor;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.sport.playsqorr.utilities.APIs;
@@ -17,11 +18,13 @@ public class Retrofit_funtion_class {
 
 
         if (retrofit == null) {
-
+            HttpLoggingInterceptor interceptor = new HttpLoggingInterceptor();
+            interceptor.setLevel(HttpLoggingInterceptor.Level.BODY);
             OkHttpClient okHttpClient = new OkHttpClient.Builder()
                     .connectTimeout(5, TimeUnit.MINUTES)
                     .readTimeout(5, TimeUnit.MINUTES)
                     .writeTimeout(5, TimeUnit.MINUTES)
+                    .addInterceptor(interceptor)
                     .build();
 
            /* OkHttpClient.Builder httpClient = new OkHttpClient.Builder();

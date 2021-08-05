@@ -515,6 +515,7 @@ public class NewPlayerListAdapter extends RecyclerView.Adapter<NewPlayerListAdap
                         }
 
 //                        playerHolder.tvPlayPoints.setText(matchups.get(position).getPlayerA().getPointSpread() + " ");
+
                         playerHolder.tvPlayPoints.setText(matchups.get(position).getHandicap() + " ");
 
                     } else {

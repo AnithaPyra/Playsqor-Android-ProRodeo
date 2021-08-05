@@ -1,0 +1,202 @@
+
+^
+java:S1192ö"GDefine a constant instead of duplicating this literal "NCAAMB" 4 times.(¶—‘â
+j
+java:S1192Ö"NDefine a constant instead of duplicating this literal "playerCardIds" 3 times.(‘ø£ãüÿÿÿÿ
+c
+java:S1192Á"MDefine a constant instead of duplicating this literal "playerImages" 3 times.(óÍò]
+^
+java:S1192Ô"GDefine a constant instead of duplicating this literal "payout" 6 times.(ôâÛú
+l
+java:S1192Ð"UDefine a constant instead of duplicating this literal "currencyTypeIsTokens" 6 times.(Ä´Ê÷
+_
+java:S1192©"HDefine a constant instead of duplicating this literal "LA-LIGA" 3 times.(Ó­çÚ
+i
+java:S1192è"MDefine a constant instead of duplicating this literal "playerCardId" 3 times.(ˆ äûÿÿÿÿ
+e
+java:S1192Ë"IDefine a constant instead of duplicating this literal "leagueId" 3 times.(Ý÷ÕÈùÿÿÿÿ
+i
+java:S1192Ì"RDefine a constant instead of duplicating this literal "leagueAbbrevation" 3 times.(Ñ˜¤Í
+b
+java:S1192Ò"LDefine a constant instead of duplicating this literal "matchupsWon" 6 times.(ô”¨7
+a
+java:S1192Ê"JDefine a constant instead of duplicating this literal "startTime" 3 times.(Ø–‘ã
+a
+java:S1192Ä"JDefine a constant instead of duplicating this literal "WILD CARD" 4 times.(õäâŽ
+^
+java:S1192Ø"GDefine a constant instead of duplicating this literal "NASCAR" 4 times.(ÛèáÚ
+h
+java:S1192á"LDefine a constant instead of duplicating this literal "playerCards" 3 times.(ðÂ•Óýÿÿÿÿ
+e
+java:S1192»"IDefine a constant instead of duplicating this literal "cardType" 4 times.(‡÷Óéþÿÿÿÿ
+e
+java:S1192Ó"ODefine a constant instead of duplicating this literal "settlementDate" 6 times.(¢²šr
+`
+java:S1192Ç"JDefine a constant instead of duplicating this literal "cardTitle" 3 times.(ÈÙâ=
+e
+java:S1192ˆ"IDefine a constant instead of duplicating this literal "PRORODEO" 4 times.(¾Î´¿ûÿÿÿÿ
+h
+java:S1192È"LDefine a constant instead of duplicating this literal "matchupType" 3 times.(’àÌûÿÿÿÿ
+e
+java:S1192Ñ"ODefine a constant instead of duplicating this literal "matchupsPlayed" 6 times.(ëäÛD
+^
+java:S1192Æ"GDefine a constant instead of duplicating this literal "cardId" 3 times.(«ÎÒÔ
+^
+java:S1192´"GDefine a constant instead of duplicating this literal "NCAAFB" 4 times.(¿™ï’
+e
+java:S1192í"NDefine a constant instead of duplicating this literal "purchasedTime" 3 times.(Â¤èÆ
+c
+java:S1192½"GDefine a constant instead of duplicating this literal "status" 7 times.(ìÔô¬ùÿÿÿÿ
+l	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÔô¬ùÿÿÿÿ
+l	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ø£ãüÿÿÿÿ
+l	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ä‘ˆÿÿÿÿÿ
+l	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÂ•Óýÿÿÿÿ
+g	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÖÖ›
+l	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ø£ãüÿÿÿÿ
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ä‘ˆÿÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÂ•Óýÿÿÿÿ
+g	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÖÖ›
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ø£ãüÿÿÿÿ
+l	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ä‘ˆÿÿÿÿÿ
+l	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÂ•Óýÿÿÿÿ
+g	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÖÖ›
+l	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òï‘öýÿÿÿÿ
+g	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÁÓ•
+l	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ì¥œúÿÿÿÿ
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ò­°
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ò­°
+l	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ŽÁÜûÿÿÿÿ
+?
+java:S1604µ"(Make this anonymous inner class a lambda(ü€èÈ
+
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø´´øÿÿÿÿ
+
+java:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Î«þÿÿÿÿ
+:
+java:S16595"$Declare "withtc" on a separate line.(¶Î¹­
+@
+java:S1659>"%Declare "EPL_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+D
+java:S1659>")Declare "LA_LIGA_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+@
+java:S1659>"%Declare "mlb_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+@
+java:S1659>"%Declare "mls_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+C
+java:S1659>"(Declare "NASCAR_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+@
+java:S1659>"%Declare "NBA_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+C
+java:S1659>"(Declare "NCAAMB_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+@
+java:S1659>"%Declare "NFL_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+@
+java:S1659>"%Declare "NHL_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+@
+java:S1659>"%Declare "PGA_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+C
+java:S1659>"(Declare "NCAAFB_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+A
+java:S1659>"&Declare "WILD_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+C
+java:S1659>"(Declare "prorod_pvb" on a separate line.(¹™ðòýÿÿÿÿ
+k	java:S116:"XRename this field "myCardsPojo_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÅ
+m	java:S116;"XRename this field "myCardsPojo_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äõ‡°
+m	java:S116<"XRename this field "myCardsPojo_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÑ¨ú
+l	java:S116>"RRename this field "all_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+l	java:S116>"RRename this field "EPL_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+p	java:S116>"VRename this field "LA_LIGA_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+l	java:S116>"RRename this field "mlb_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+l	java:S116>"RRename this field "mls_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+o	java:S116>"URename this field "NASCAR_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+l	java:S116>"RRename this field "NBA_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+o	java:S116>"URename this field "NCAAMB_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+l	java:S116>"RRename this field "NFL_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+l	java:S116>"RRename this field "NHL_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+l	java:S116>"RRename this field "PGA_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+o	java:S116>"URename this field "NCAAFB_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+m	java:S116>"SRename this field "WILD_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+o	java:S116>"URename this field "prorod_pvb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™ðòýÿÿÿÿ
+d	java:S116B"ORename this field "ROLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ©µ
+n	java:S116C"TRename this field "EPLData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´þê¾üÿÿÿÿ
+i	java:S116D"TRename this field "EPLData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¡È¼
+i	java:S116E"TRename this field "EPLData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø«€á
+q	java:S116F"WRename this field "LALIGAData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ñÿíýÿÿÿÿ
+i	java:S116G"TRename this field "NFLData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Áûœ
+n	java:S116H"TRename this field "NBAData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È«Ç¤ûÿÿÿÿ
+h	java:S116I"TRename this field "NHLData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ£k
+l	java:S116J"WRename this field "NASCARData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÑ½˜
+n	java:S116K"TRename this field "MLBData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ‹Ê ÿÿÿÿÿ
+i	java:S116L"TRename this field "MLSData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¥ÈÛ
+q	java:S116M"WRename this field "NCAAMBData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¯ñøÿÿÿÿ
+n	java:S116N"TRename this field "PGAData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¥Üüúÿÿÿÿ
+l	java:S116O"WRename this field "LALIGAData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïêû›
+n	java:S116P"TRename this field "NFLData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¸³…üÿÿÿÿ
+i	java:S116Q"TRename this field "NBAData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô»¸ë
+h	java:S116R"TRename this field "NHLData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ö÷
+q	java:S116S"WRename this field "NASCARData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚è²«üÿÿÿÿ
+n	java:S116T"TRename this field "MLBData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷‰ÒÓúÿÿÿÿ
+h	java:S116U"TRename this field "MLSData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÜÌ~
+l	java:S116V"WRename this field "NCAAMBData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â–é¨
+n	java:S116W"TRename this field "PGAData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¢üñÿÿÿÿÿ
+l	java:S116X"WRename this field "LALIGAData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ýð¤
+i	java:S116Y"TRename this field "NFLData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†—þ‚
+n	java:S116Z"TRename this field "NBAData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¾°Òûÿÿÿÿ
+i	java:S116["TRename this field "NHLData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÝÕ½
+l	java:S116\"WRename this field "NASCARData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ñÉû
+i	java:S116]"TRename this field "MLBData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ß™Æ
+n	java:S116^"TRename this field "MLSData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÅ°×ÿÿÿÿÿ
+q	java:S116_"WRename this field "NCAAMBData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ€†ˆûÿÿÿÿ
+n	java:S116`"TRename this field "PGAData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÁºúÿÿÿÿ
+q	java:S116b"WRename this field "NCAAFBData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÛúÿÿÿÿ
+l	java:S116c"WRename this field "NCAAFBData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò­©“
+l	java:S116d"WRename this field "NCAAFBData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ðœ·‰
+j	java:S116f"URename this field "WILDData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÏôð
+o	java:S116g"URename this field "WILDData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð€¨Ôûÿÿÿÿ
+o	java:S116h"URename this field "WILDData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ç»çøÿÿÿÿ
+k	java:S116j"VRename this field "redeoData_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ð®°×
+p	java:S116k"VRename this field "redeoData_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸—Áëúÿÿÿÿ
+k	java:S116l"VRename this field "redeoData_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ÁÉš
+>
+java:S1185q"(Remove this method to simply inherit it.(ßìê¯
+P	java:S125|"<This block of commented-out lines of code should be removed.(¦šø5
+Q	java:S125~"<This block of commented-out lines of code should be removed.(›ýîÓ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¦šø5
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(ý¬•
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(âš´€ÿÿÿÿÿ
+R	java:S125÷"<This block of commented-out lines of code should be removed.(‚Ú¤Î
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(âš´€ÿÿÿÿÿ
+R	java:S125œ"<This block of commented-out lines of code should be removed.(‚Ú¤Î
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ý¬•
+h
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(‡œ–
+W	java:S125†"<This block of commented-out lines of code should be removed.(ùç¾»þÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(”ý¾
+W	java:S125¥"<This block of commented-out lines of code should be removed.(ØîÚ‚þÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(‘ûžŒþÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.( ±äöûÿÿÿÿ
+R	java:S125È"<This block of commented-out lines of code should be removed.(“¯’°
+Q	java:S125Ë"<This block of commented-out lines of code should be removed.(íÀâ`
+R	java:S125Í"<This block of commented-out lines of code should be removed.(¼¬íœ
+P
+java:S1854ÿ"9Remove this useless assignment to local variable "rrole".(˜Ï†Å
+R	java:S125Ù"<This block of commented-out lines of code should be removed.(Ö‰ü¼
+o
+java:S3776†"SRefactor this method to reduce its Cognitive Complexity from 117 to the 15 allowed.(²€¡Ñüÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(ï›Ž÷ÿÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(è‚¤êúÿÿÿÿ
+Q	java:S125ã"<This block of commented-out lines of code should be removed.(ü¥à/
+W	java:S125ç"<This block of commented-out lines of code should be removed.(ÐÅ¤™øÿÿÿÿ
+R	java:S125ï"<This block of commented-out lines of code should be removed.(†åÊø
+R	java:S125ó"<This block of commented-out lines of code should be removed.(œÿõ„
+W	java:S125÷"<This block of commented-out lines of code should be removed.(Î¼ñÄÿÿÿÿÿ
+R	java:S125û"<This block of commented-out lines of code should be removed.(è…´Ö
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(¥»ªËþÿÿÿÿ
+R	java:S125—"<This block of commented-out lines of code should be removed.(ÄÍÕ„
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(ß¦´–
+R
+java:S1874Á"<Remove this use of "FragmentPagerAdapter"; it is deprecated.(‘í›\
+=	java:S131Ç""Add a default case to this switch.(¼œóÛüÿÿÿÿ
+=	java:S131Ù""Add a default case to this switch.(¼œóÛüÿÿÿÿ
+A
+java:S1481ÿ"*Remove this unused "rrole" local variable.(˜Ï†Å

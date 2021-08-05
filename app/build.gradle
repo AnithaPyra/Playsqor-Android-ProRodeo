@@ -24,6 +24,18 @@ android {
 //            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
 //        }
     }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8.toString()
+    }
+
+    lintOptions {
+        disable 'RestrictedApi'
+    }
+
+    dataBinding {
+        enabled = true
+    }
 }
 
 dependencies {
@@ -92,6 +104,27 @@ dependencies {
 
   //  implementation 'com.github.kalyan0428:Sqorr_Lib:1.1'
 //
+
+
+    //glide
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+
+    //Gson
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    //volley api call
+    implementation 'com.android.volley:volley:1.2.0'
+
+    // Coroutines
+    api "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.1"
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.1'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.1'
+
+    //design match to all device
+    implementation 'com.intuit.sdp:sdp-android:1.0.6'
+
+
 
 }
 apply plugin: 'com.google.gms.google-services'

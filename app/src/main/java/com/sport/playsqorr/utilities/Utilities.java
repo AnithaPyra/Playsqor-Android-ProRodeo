@@ -1,6 +1,7 @@
 package com.sport.playsqorr.utilities;
 
 import android.Manifest;
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.Dialog;
 import android.content.ComponentName;
@@ -35,7 +36,9 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.Locale;
 import java.util.Objects;
+import java.util.TimeZone;
 
 
 public class Utilities {
@@ -536,4 +539,189 @@ public class Utilities {
         }
 
     }
+
+    public Date getCurrentDateAndTime()
+    {
+        Calendar c = Calendar.getInstance();
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd/MM/yyyy HH:mm");
+       // String formattedDate = df.format(c.getTime());
+
+      /*  Date date = null;
+        try
+        {
+            date = simpleDateFormat.parse(c.getTime());
+        }
+        catch (ParseException e)
+        {
+            e.printStackTrace();
+        }*/
+        return c.getTime();
+    }
+  public  String getDifferenceOfTwoDates(Date startDate, Date endDate)
+    {
+        String time = "";
+                String ago = "";
+        long different = endDate.getTime() - startDate.getTime();
+
+
+        long secondsInMilli = 1000;
+        long minutesInMilli = secondsInMilli * 60;
+        long hoursInMilli = minutesInMilli * 60;
+        long daysInMilli = hoursInMilli * 24;
+
+        long elapsedDays = different / daysInMilli;
+        different = different % daysInMilli;
+
+        long elapsedHours = different / hoursInMilli;
+        different = different % hoursInMilli;
+
+        long elapsedMinutes = different / minutesInMilli;
+        different = different % minutesInMilli;
+
+       // long elapsedSeconds = different / secondsInMilli;
+
+
+
+
+
+        if(elapsedDays >0)
+        {
+            time = (elapsedDays)+"D"+" ";
+        }
+        else if(elapsedDays <0)
+        {
+            time = (Math.abs(elapsedDays))+"D"+" ";
+            ago = "ago";
+        }
+
+        if(elapsedHours > 0)
+        {
+            time = time+(elapsedHours)+"H"+" ";
+
+        }
+        else if(elapsedHours <0)
+        {
+            time = time+(Math.abs(elapsedHours))+"H"+" ";
+
+            ago = "ago";
+
+        }
+
+        if(elapsedMinutes > 0)
+        {
+            time = time+(elapsedMinutes)+"M"+" ";
+
+        }
+        else if(elapsedMinutes <0)
+        {
+            time = time+(Math.abs(elapsedMinutes))+"M"+" ";
+
+            ago = "ago";
+
+        }
+        time = time+ago;
+
+                return time;
+
+    }
+
+   public Date convertDateAndTime(String inputDateStr)
+    {
+       // String dateStr = "2021-08-14T14:00:00";
+        SimpleDateFormat input = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
+        SimpleDateFormat output = new SimpleDateFormat("dd/MM/yyyy HH:mm");
+
+
+        Date outputDate = null;
+        try
+        {
+            outputDate = output.parse(output.format(input.parse(inputDateStr)));
+        }
+        catch (ParseException e)
+        {
+            e.printStackTrace();
+        }
+
+        return outputDate;
+
+
+
+    }
+
+
+
+    public static String getTimeDiff(String timeFromServer) {
+        String formattedTime = "";
+        String[] timeArray = timeFromServer.split("T");
+        String serverDate = "";
+        String sererTime = "";
+
+        if (timeArray.length > 0) {
+            serverDate = timeArray[0];
+            sererTime = timeArray[1].replace("Z", "");
+            timeFromServer = serverDate + " " + sererTime;
+        }
+        Date currentDate = new Date();
+        @SuppressLint("SimpleDateFormat")
+        SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        dateFormat.setTimeZone(TimeZone.getTimeZone("UTC"));
+        String datenow = dateFormat.format(currentDate);
+        @SuppressLint("SimpleDateFormat")
+        SimpleDateFormat spf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        Date date1 = null;
+        Date date2 = null;
+        try {
+            date1 = spf.parse(datenow);
+            date2 = spf.parse(timeFromServer);
+            if (date2 != null && date1 != null)
+                formattedTime = printDifference(date1, date2);
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+
+        return formattedTime;
+    }
+
+
+    public static String printDifference(Date startDate, Date endDate) {
+
+        String diffDate = "";
+        //milliseconds
+        long different = endDate.getTime() - startDate.getTime();
+
+        System.out.println("startDate : " + startDate);
+        System.out.println("endDate : " + endDate);
+        System.out.println("different : " + different);
+
+        long secondsInMilli = 1000;
+        long minutesInMilli = secondsInMilli * 60;
+        long hoursInMilli = minutesInMilli * 60;
+        long daysInMilli = hoursInMilli * 24;
+
+        long elapsedDays = different / daysInMilli;
+        different = different % daysInMilli;
+
+        long elapsedHours = different / hoursInMilli;
+        different = different % hoursInMilli;
+
+        long elapsedMinutes = different / minutesInMilli;
+        different = different % minutesInMilli;
+
+        long elapsedSeconds = different / secondsInMilli;
+
+        System.out.printf(
+                "%d days, %d hours, %d minutes, %d seconds%n",
+                elapsedDays, elapsedHours, elapsedMinutes, elapsedSeconds);
+        if (elapsedDays > 0 && elapsedHours > 0 && elapsedMinutes > 0) {
+            diffDate = elapsedDays + "d " + elapsedHours + "h";
+        } else if (elapsedHours > 0 && elapsedMinutes > 0) {
+            diffDate = elapsedHours + "h " + elapsedMinutes + "m";
+        } else if (elapsedMinutes > 0) {
+            diffDate = elapsedMinutes + "m";
+        }
+
+        return diffDate;
+    }
+
+
 }
